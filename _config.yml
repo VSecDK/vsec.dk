@@ -20,7 +20,7 @@ title_separator          : "-"
 subtitle                 : Security Community
 name                     : "VSec"
 description              : "Security Community"
-url                      : "https://viking-security.github.io"
+url                      : # "https://viking-security.github.io"
 baseurl                  : "https://viking-security.github.io/vsec.dk/"
 repository               : "Viking-Security/vsec.dk"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
