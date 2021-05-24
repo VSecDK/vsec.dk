@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :  "vsec-community@protonmail.com
+  email            :  "vsec-community@protonmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
