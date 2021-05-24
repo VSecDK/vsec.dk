@@ -3,7 +3,7 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Projects"
-    url: _pages/projects.md
+    url: _pages/
   - title: "About"
     url: _pages/about.md
   - title: "Join Discord"
