@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 remote_theme             : "viking-security/minimal-mistakes-theme"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,8 +21,7 @@ subtitle                 : Security Community
 name                     : "VSec"
 description              : "Security Community"
 url                      : "https://viking-security.github.io/vsec.dk/"
-baseurl                  : # "https://viking-security.github.io/vsec.dk/"
-repository               : # "Viking-Security/vsec.dk"
+baseurl                  : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -91,31 +90,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
-# Site Author
-author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :  "vsec-community@protonmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vsec-community@protonmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vec.dk"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/VSecDK"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Viking-Security"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCGQCK473y181BjNMJLrW11g"
-
 # Site Footer
 footer:
   links:
@@ -128,7 +102,6 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCGQCK473y181BjNMJLrW11g"
-
 
 # Reading Files
 include:
