@@ -5,5 +5,11 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Projects"
+    url: /projects/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "About"
     url: /about/
+  - title: "Join Discord"
+    url: https://discord.gg/XCUja4Q
