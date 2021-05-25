@@ -2,7 +2,7 @@
 title: "Introduction to VSec and Community Pledge"
 date: 2021-06-01
 categories:
-  - meta
+  - Blog
 tags:
   - Community
   - Pledge
