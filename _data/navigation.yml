@@ -1,5 +1,5 @@
 main:
- - title: "Posts"
+ - title: "Blog"
    children:
      - title: "Posts"
        url: /posts/
