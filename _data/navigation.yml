@@ -1,10 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+        children:
+          - title: "Categories"
+            url: /categories/
+          - title: "Tags"
+            url: /tags/
   - title: "Projects"
     url: /projects/
   - title: "Sponsors"
@@ -13,3 +14,15 @@ main:
     url: /about/
   - title: "Join Discord"
     url: https://discord.gg/XCUja4Q
+
+    sidebar-projects:
+  - title: "Projects"
+    children:
+      - title: "Project A"
+        url: /
+      - title: "Project B"
+        url: /
+      - title: "Project C"
+        url: /
+      - title: "Project D"
+        url: /
