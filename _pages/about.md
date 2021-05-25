@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About VSec"
+toc: true
 ---
 
 # What is VSec?
