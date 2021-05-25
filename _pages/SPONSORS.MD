@@ -1,13 +1,11 @@
 ---
 permalink: /sponsors/
-title: "Sponsors"
+title: "Sponsors and contributors"
 toc: true
 ---
 
-# Sponsors and contributors
+
+# Sponsors
 
 
-## Sponsors
-
-
-## Contributors
+# Contributors
