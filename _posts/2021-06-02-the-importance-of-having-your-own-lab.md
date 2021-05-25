@@ -9,9 +9,6 @@ tags:
   - Contribution
 ---
 
-
-# The importance of having your own lab!
-
 This is my first post on VSec and hopefully not my last. I hope we can use this space to start to encourage others to write posts based on their areas of expertise. It is very exciting that we now have a space that is dedicated for the Danish Cyber Security community. So I am also quite excited to try to kick it off with this post.
 
 Recently I have been getting more and more involved in education, helping create content for the incident response course at Aarhus Business Academy and giving various talks and lectures around other education houses too. My most recent talk focused heavily on some of the lower hanging fruits for students to get involved in whilst they are still new in the field. A few of the things I have been discussing having been, using a 2nd brain technique to gather public Cyber Threat Intelligence (something I will be blogging about too) and also building a lab for learning and eventually purple teaming. So I thought my first post should focus on how important it is to have your own lab and what you can do with it once it is built.
