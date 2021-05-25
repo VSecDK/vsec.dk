@@ -1,11 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-        children:
-          - title: "Categories"
-            url: /categories/
-          - title: "Tags"
-            url: /tags/
+ - title: "Posts"
+   children:
+    - title: "Posts"
+      url: /posts/
+    - title: "Categories"
+     url: /categories/
+    - title: "Tags"
+      url: /tags/
   - title: "Projects"
     url: /projects/
   - title: "Sponsors"
