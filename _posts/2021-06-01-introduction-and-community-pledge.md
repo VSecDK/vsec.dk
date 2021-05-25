@@ -1,6 +1,6 @@
 ---
 title: "Introduction to VSec and Community Pledge"
-layout: post
+date: 2021-06-01
 categories:
   - meta
 tags:
