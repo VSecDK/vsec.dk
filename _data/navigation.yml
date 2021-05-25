@@ -9,6 +9,8 @@ main:
        url: /tags/
  - title: "Projects"
    url: /projects/
+ - title: "Events"
+   url: /events/
  - title: "Sponsors"
    url: /sponsors/
  - title: "About"
