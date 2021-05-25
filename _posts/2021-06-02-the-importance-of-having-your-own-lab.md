@@ -4,9 +4,8 @@ date: 2021-06-01
 categories:
   - Blog
 tags:
+  - Lab
   - Community
-  - Pledge
-  - Contribution
 ---
 
 This is my first post on VSec and hopefully not my last. I hope we can use this space to start to encourage others to write posts based on their areas of expertise. It is very exciting that we now have a space that is dedicated for the Danish Cyber Security community. So I am also quite excited to try to kick it off with this post.
