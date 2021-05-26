@@ -7,18 +7,7 @@ toc: true
 # What is VSec?
 VSec is short for Viking Security and is a danish non-profit InfoSec community that are trying to "unify" the different local infosec groups in Denmark by providing a shared communication platform. VSec is meant to be a community for the community by the community, therefor all the local crew members has the possibility to be part of the community board channel and control how the community is run/handled (CoC, guidelines, rules, events etc.). The different sub-community crew's handle their own sub-channels on the community server.
 
-# Join our discord server
-Feel free to join our Discord server and remember to check out the #events channel for new local events.
-
-## Need Help?
-Join the Discord server to get connected to hundreds of security aware people
-  - Get help regarding any issue you are facing.
-  - Make new friends, working in the same area.
-  - Find amazing projects to contribute to, or help others with their issues
-
-Invitation link - [https://discord.gg/XCUja4Q](https://discord.gg/XCUja4Q)
-
-# Code of Conduct (CoC) & Rules   
+# Code of Conduct   
 By joining this server you accept to abide to the following Rules and Code of Conduct
 
 1. Respectful and civil behavior is always a must, remember the person behind the screen.     
@@ -49,3 +38,9 @@ Violating these rules will result in a public warning.
 Continued violations will result in being muted, kicked or banned (ban evasion is not allowed).     
       
 Any changes made to the Rules and CoC by the Community Board will be announced in #announcements-📢
+
+# Contact
+E-mail: [VSec-Community@protonmamil.com](mailto:VSec-Community@protonmamil.com)  
+
+# History
+September 2020 - VSec was founded by [Kristian Bodeholt](https://www.linkedin.com/in/kristianbodeholt/)  
