@@ -12,6 +12,18 @@ main:
  - title: "Join Discord"
    url: https://discord.gg/XCUja4Q
 
+sidebar-home:
+  - title: "Danish InfoSec Communities"
+    children:
+      - title: "OWASP Aarhus"
+        url: https://owasp.org/www-chapter-aarhus/
+      - title: "Aarhus CitySec"
+        url: https://www.linkedin.com/groups/12139866/
+      - title: "OWASP Copenhagen"
+        url: https://owasp.org/www-chapter-copenhagen/
+      - title: "BSides Copenhagen"
+        url: https://bsideskbh.dk/
+
 sidebar-posts:
   - title: "Search"
     children:
