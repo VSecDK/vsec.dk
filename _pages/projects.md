@@ -21,7 +21,7 @@ Each project will need an initial approval from the VSec Community Board to be i
 - If you're not sure about adding something, [open an issue](https://github.com/Viking-Security/website/issues/new) to discuss it.
 - Feel free to open a Pull Request early so that a discussion can be had as changes are developed.
 
-## Guidelines to keep in mind when publishing a community project
+## Community project guidelines
 
 - Projects must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Projects must be open source under the MIT license.
