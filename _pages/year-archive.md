@@ -8,7 +8,7 @@ sidebar:
   title: "Archive"
   nav: sidebar-posts
 
-  sidebar:
+sidebar:
   title: "Contribute"
   nav: sidebar-contributing
 ---
