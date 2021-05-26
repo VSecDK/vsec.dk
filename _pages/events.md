@@ -24,6 +24,6 @@ If you want to have your event broadcasted live and recorded on the VSec YouTube
 
 # Past events
 
-| Date | Event | Topic | Community | Link |
-|------|-------|-------|-----------|------|
-| 20/5 2021 - 20.00 to 21.30  | How I hacked the largest bank in Norway using a 1-page paper form by [Per Thorsheim](https://twitter.com/thorsheim) + Community Talk with [Stu](https://twitter.com/cybersecstu) from the Many Hats Club | Security & Community | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277996588/) | 
+| Date | Event | Topic | Community | Link | Recording |
+|------|-------|-------|-----------|------|-----------|
+| 20/5 2021 - 20.00 to 21.30  | How I hacked the largest bank in Norway using a 1-page paper form by [Per Thorsheim](https://twitter.com/thorsheim) + Community Talk with [Stu](https://twitter.com/cybersecstu) from the Many Hats Club | Security & Community | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277996588/) | [Link](https://youtu.be/NUOX5F5VCqc?t=895)
