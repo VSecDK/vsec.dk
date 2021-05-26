@@ -1,10 +1,8 @@
 ---
-permalink: /sponsors/
-title: "Sponsors and contributors"
+permalink: /contributing/
+title: "Contributing to VSec"
 toc: true
 ---
-
-# Contributing to VSec
 
 :+1::tada: Thanks for taking the time to contribute! :tada::+1:
 
