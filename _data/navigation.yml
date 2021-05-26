@@ -19,6 +19,15 @@ sidebar-posts:
         url: /categories/
       - title: "Tags"
         url: /tags/
+  
+  - title: "How to contribute"
+    children:
+      - title: "Posting to VSec"
+        url: /posting/
+      - title: "Projects on VSec"
+        url: /projects/
+      - title: "Events on VSec"
+        url: /events/
 
 sidebar-contributing:
   - title: "How to contribute"
