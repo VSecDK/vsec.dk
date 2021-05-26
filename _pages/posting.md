@@ -40,7 +40,7 @@ the cutoff point for the post summary that's displayed on the
 
 ## Author profile
 If you want to have you author profile information shown next to the article you should include author: name in the YML front matter.
-Your profile information need to be added to _data/authors.yml and the picture to assets/images/authors/filename.jpg
+Your profile information need to be added to '_data/authors.yml' and the picture to 'assets/images/authors/filename.jpg'
 
 ```markdown
 ---

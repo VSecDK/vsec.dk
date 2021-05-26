@@ -50,3 +50,11 @@ sidebar-projects:
         url: /
       - title: "Project D"
         url: /
+
+sidebar-members:
+  - title: "Members"
+    children:
+      - title: "Verified Members"
+        url: /members/
+      - title: "Moderators"
+        url: /moderators/
