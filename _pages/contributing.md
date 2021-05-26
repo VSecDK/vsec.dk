@@ -4,7 +4,6 @@ title: "Contributing to VSec"
 toc: true
 
 sidebar:
-  title: "Contribute"
   nav: sidebar-contributing
 ---
 
