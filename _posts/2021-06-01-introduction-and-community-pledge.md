@@ -1,11 +1,11 @@
 ---
 title: "Introduction to VSec and Community Pledge"
 date: 2021-06-01
+author: Kristian Bodeholt
 categories:
-  - Blog
+  - meta
 tags:
   - Community
-  - Pledge
   - Contribution
 ---
 

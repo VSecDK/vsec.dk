@@ -12,7 +12,7 @@ This is my first post on VSec and hopefully not my last. I hope we can use this 
 
 Recently I have been getting more and more involved in education, helping create content for the incident response course at Aarhus Business Academy and giving various talks and lectures around other education houses too. My most recent talk focused heavily on some of the lower hanging fruits for students to get involved in whilst they are still new in the field. A few of the things I have been discussing having been, using a 2nd brain technique to gather public Cyber Threat Intelligence (something I will be blogging about too) and also building a lab for learning and eventually purple teaming. So I thought my first post should focus on how important it is to have your own lab and what you can do with it once it is built.
 
-![Saga Lab Map]({{ site.url }}{{ site.baseurl }}/assets/images/sagalab2021.jpg)  
+![Saga Lab Map]({{ site.url }}{{ site.baseurl }}/assets/images/posts/sagalab2021.jpg)  
 This is a drawing of the "Saga Lab" that was built for Aarhus Business Academy, it is currently in use as a great teaching aid on the incident response course.
 
 ## 1. Gaining experience
