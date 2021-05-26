@@ -62,5 +62,8 @@ Firstname Lastname:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/name"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/name"
 ---
 ```
