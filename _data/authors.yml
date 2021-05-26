@@ -1,7 +1,7 @@
 Kristian Bodeholt:
   name   : "Kristian Bodeholt"
   avatar : "/assets/images/authors/kristianbodeholt.jpg"
-  bio    : "Founder of VSec & Connected since 28.8k."
+  bio    : "Founder of VSec"
   location: "Aarhus, Denmark"
   links:
     - label: "E-mail"
@@ -19,19 +19,16 @@ Kristian Bodeholt:
 
 David Thejl-Clayton:
   name   : "David Thejl-Clayton"
-  avatar : /assets/images/authors/bio-photo.jpg"
-  bio    : "Father² & Husband, Pragmatic Technologist, IT Security Viking & Danish Army Veteran. Connected since 28.8k."
-  location: "Aarhus, Denmark"
+  avatar : /assets/images/authors/davidclayton.jpg"
+  bio    : "Lab rat"
+  location: "Lime, Denmark"
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:kristian@bodeholt.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bodeholt.com"
+      url: "mailto:davidclayton454@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kristianbodeholt"
+      url: "hhttps://www.linkedin.com/in/davidclayton454/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bodeholt"
+      url: "https://twitter.com/DCSecuritydk"
