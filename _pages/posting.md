@@ -4,7 +4,7 @@ title: "Posting to VSec"
 toc: true
 
 sidebar:
-  title: "Archive"
+  title: "Post Archive"
   nav: sidebar-posts
 ---
 Posts are stored in the [_post] directory and are written in [markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax), with [YML front matter](https://jekyllrb.com/docs/front-matter/) at the top for metadata. The `title`, `author`, and `date` properties should be set on all posts. The date should be in the filename in this formatting `year-month-day-title.md` (1999-12-31-title.md).
