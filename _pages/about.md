@@ -43,7 +43,7 @@ Continued violations will result in being muted, kicked or banned (ban evasion i
 Any changes made to the Rules and CoC by the Community Board will be announced in #announcements-📢
 
 # Contact
-E-mail: [VSec-Community@protonmamil.com](mailto:VSec-Community@protonmamil.com)  
+E-mail: [VSec-Community@protonmamil.com](mailto:VSec-Community@protonmail.com)  
 
 # Corrections
 If any information on this website is confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/Viking-Security/website/issues/new) for help.
