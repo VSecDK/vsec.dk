@@ -13,12 +13,14 @@ main:
    url: https://discord.gg/XCUja4Q
 
 sidebar-posts:
-  - title: "Search"
+  - title: "Search & Guideline"
     children:
       - title: "Categories"
         url: /categories/
       - title: "Tags"
         url: /tags/
+      - title: "Posting to VSec"
+        url: /posting/
 
 sidebar-projects:
   - title: "Projects"
