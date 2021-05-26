@@ -1,6 +1,7 @@
 ---
 title: "The importance of having your own lab!"
 date: 2021-06-01
+author: David Thejl-Clayton
 categories:
   - Blog
 tags:
