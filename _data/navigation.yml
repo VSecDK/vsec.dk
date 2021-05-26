@@ -14,7 +14,7 @@ main:
 
 sidebar-posts:
   - title: "Archive"
-      children:
+    children:
       - title: "Categories"
         url: /categories/
       - title: "Tags"
