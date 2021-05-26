@@ -19,7 +19,7 @@ Kristian Bodeholt:
 
 David Thejl-Clayton:
   name   : "David Thejl-Clayton"
-  avatar : /assets/images/authors/davidclayton.jpg"
+  avatar : "/assets/images/authors/davidclayton.jpg"
   bio    : "Lab rat"
   location: "Lime, Denmark"
   links:
