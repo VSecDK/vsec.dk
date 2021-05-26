@@ -1,12 +1,12 @@
 main:
  - title: "Posts"
-   url: /year-archive/
+   url: /posts/
  - title: "Projects"
    url: /projects/
  - title: "Events"
    url: /events/
- - title: "Sponsors"
-   url: /sponsors/
+ - title: "Contributing"
+   url: /contributing/
  - title: "About"
    url: /about/
  - title: "Join Discord"
