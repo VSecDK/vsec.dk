@@ -1,12 +1,6 @@
 main:
- - title: "Blog"
-   children:
-     - title: "Posts"
-       url: /posts/
-     - title: "Categories"
-       url: /categories/
-     - title: "Tags"
-       url: /tags/
+ - title: "Posts"
+   url: /year-archive/
  - title: "Projects"
    url: /projects/
  - title: "Events"
@@ -17,6 +11,14 @@ main:
    url: /about/
  - title: "Join Discord"
    url: https://discord.gg/XCUja4Q
+
+sidebar-posts:
+  - title: "Archive"
+      children:
+      - title: "Categories"
+        url: /categories/
+      - title: "Tags"
+        url: /tags/
 
 sidebar-projects:
   - title: "Projects"
