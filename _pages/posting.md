@@ -47,8 +47,8 @@ Your profile information need to be added to _data/authors.yml and the picture t
 Firstname Lastname:
   name   : "Firstname Lastname"
   avatar : "/assets/images/authors/picture.jpg"
-  bio    : "Founder of VSec"
-  location: "Aarhus, Denmark"
+  bio    : "My bio"
+  location: "City, Denmark"
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope"
