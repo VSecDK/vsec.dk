@@ -7,5 +7,7 @@ toc: true
 
 # Sponsors
 
+## Sponsor Guidelines & Contract
 
 # Contributors
+
