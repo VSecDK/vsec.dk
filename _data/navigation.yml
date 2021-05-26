@@ -13,7 +13,7 @@ main:
    url: https://discord.gg/XCUja4Q
 
 sidebar-posts:
-  - title: "Archive"
+  - title: "Search"
     children:
       - title: "Categories"
         url: /categories/
