@@ -42,5 +42,8 @@ Any changes made to the Rules and CoC by the Community Board will be announced i
 # Contact
 E-mail: [VSec-Community@protonmamil.com](mailto:VSec-Community@protonmamil.com)  
 
+# Corrections
+If any information on this website is confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/Viking-Security/website/issues/new) for help.
+
 # History
 September 2020 - VSec was founded by [Kristian Bodeholt](https://www.linkedin.com/in/kristianbodeholt/)  

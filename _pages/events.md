@@ -19,9 +19,11 @@ Feel free to send a message or mail to one of the VSec admins or moderators to g
 
 - Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Only non-profit events are allowed.
-- Only use royalty free music and graphics/overlays that are not under copyright.
+- Only use royalty free music and graphics that are not under copyright.
 
-## Streaming Guide (Event Restreaming)
+## Streaming Guide
+
+If you want to have you event broadcastet live and recorded on the VSec YouTube Channel please reach to @kbodeholt on Discord.
 
 # Past events
 
