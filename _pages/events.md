@@ -12,7 +12,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 |------|-------|-------|-----------|------|
 |      |       |       |           | [Link]()| 
 
-# Event Guidelines
+## Event Guidelines
 
 - Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Only non-profit events are allowed.
