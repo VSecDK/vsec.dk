@@ -8,10 +8,11 @@ sidebar:
   nav: sidebar-projects
 ---
 
-Tired of trying to get enough energy to do a InfoSec related projects and have a small viable idea? Try Community Project 4000 you get to work with other workaholics so that you can sleep on your dayjob, since you have now sorted all your problems as a community.
+Tired of trying to get enough energy to do a InfoSec related projects and have a small but viable idea? Try Community Project 4000! You get to work with other workaholics so that you can sleep on your dayjob, since you have now sorted your problems as a community with other awesome members of VSec.
 
-Each project will need an initial approval from the VSec Community Board to be included in the VSec repository, but generally we accept most contributions as long as the project has potential. Be sure to include the following information.
+Each project will need an initial approval from the VSec Community Board to be included in the VSec repository, but generally we accept most contributions as long as the project has potential. Be sure to include the following information:
 
+- Name
 - Topic
 - Short project description
 - Contributors
