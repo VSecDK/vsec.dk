@@ -26,4 +26,4 @@ Each project will need an initial approval from the VSec Community Board to be i
 
 - Projects must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Projects must be open source under the MIT license.
-- Projects are reviewed by the VSec community and might be discarded or deleted (with notice) due to quality or being unmaintained.
+- Projects are reviewed by the VSec community and might be discarded or archived (with notice) due to quality or being unmaintained.
