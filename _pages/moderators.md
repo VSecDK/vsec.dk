@@ -7,6 +7,8 @@ sidebar:
   nav: sidebar-members
 ---
 
+Need any form of help regarding VSec or the moderation of the VSec community, please reach out to one of our moderators.
+
 ## Kristian Bodeholt (Kristian Bodeholt)
 Work: Security Specialist @ Jyske Bank A/S   
 [https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)  
