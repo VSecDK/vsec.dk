@@ -54,6 +54,6 @@ The sponsor grants VSec the rights to use sponsor’s logo and company name in a
 **Payment details**: An invoice will be sent to the address above upon reception of the signed contract. All payments will be managed by the VSec Association (currently not established). 
 Payments are to be paid no later than 30 days before the event dates for the contract to be valid and to be able to appear as a sponsor in the sponsoring material. Your sponsor logo will be made visible on our web page when payment has been received.
 
-## Consor Contact
+## Sponsor - Contact
 
 Please contact [vsec-community@protonmail.com](mailto:vsec-community@protonmail.com) for further information.
