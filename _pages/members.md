@@ -320,3 +320,6 @@ Work: IT Specialist @ Region Midtjylland & Fagkoordinator for Operationel Sikker
 Work: Systemkonsulent @ netIP  
 [https://www.linkedin.com/in/martin-nielsen-4916b286/](https://www.linkedin.com/in/martin-nielsen-4916b286/)  
 
+## Roland Jørgensen (Roland)  
+Work: Freelance Senior Consultant  
+[https://www.linkedin.com/in/rolandjorgensen/](https://www.linkedin.com/in/rolandjorgensen/)  
