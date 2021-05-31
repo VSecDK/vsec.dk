@@ -323,3 +323,7 @@ Work: Systemkonsulent @ netIP
 ## Roland Jørgensen (Roland)  
 Work: Freelance Senior Consultant  
 [https://www.linkedin.com/in/rolandjorgensen/](https://www.linkedin.com/in/rolandjorgensen/)  
+
+## Niklas Falk (nfp)   
+Work: Security Advisor at Improsec A/S  
+[https://www.linkedin.com/in/nichlas-falk-3128b910a/](https://www.linkedin.com/in/nichlas-falk-3128b910a/)  
