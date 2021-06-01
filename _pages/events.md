@@ -10,7 +10,8 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date | Event | Topic | Community | Link |
 |------|-------|-------|-----------|------|
-|      |       |       |           | [Link]()| 
+| 19/8 to 26/8 2021 | Bornhack | Makers/Hackers | Bornhack | [Link](https://bornhack.dk/bornhack-2021/)|  
+| 1/9 to 5/9 2021 | Sommerhack | Makers/Hackers | OSAA / HAL9K | [Link](https://sommerhack.dk/)| 
 
 ## Event Guidelines
 
