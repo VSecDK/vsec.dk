@@ -10,25 +10,15 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date | Event | Topic | Community | Link |
 |------|-------|-------|-----------|------|
-|      |       |       |           | [Link]()| 
+| 27/6 @ 13:00 - 17:00 | Cryptohagen Meetup | Privacy | Cryptohagen | [Link](https://cryptohagen.dk/)|  
+| 19/8 to 26/8 2021 | Bornhack | Makers/Hackers | Bornhack | [Link](https://bornhack.dk/bornhack-2021/)|  
+| 1/9 to 5/9 2021 | Sommerhack | Makers/Hackers | OSAA / HAL9K | [Link](https://sommerhack.dk/)| 
 
 ## Event Guidelines
 
 - Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Only non-profit events are allowed.
 - Only use royalty free music and graphics that are not under copyright.
-
-## Streaming Guide
-
-If you want to have your event broadcasted live and recorded on the [VSec YouTube Channel](https://www.youtube.com/channel/UCGQCK473y181BjNMJLrW11g) please reach to @kbodeholt on Discord.
-
-How to stream from Discord to YouTube or other streaming services on behalf of VSec
-1. Coordinate date/time for a streamer to be online to stream the event on behalf the community group
-2. Send the streamkey for the streaming service to the streamer
-3. Have fun!!
-
-**Specific guides to find streamkeys**   
-YouTube - https://support.google.com/youtube/answer/2907883
 
 # Past events
 
