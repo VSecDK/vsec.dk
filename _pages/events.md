@@ -3,7 +3,6 @@ permalink: /events/
 title: "Community Events"
 toc: true
 ---
-Want to do a online non-profit event on the VSec Discord server and get the support of the growing Danish InfoSec community, feel free to reach out to us on Discord. As an option we can also help provide a semi-professional setup by live re-streaming the event on other streaming services like our [VSec YouTube Channel](https://www.youtube.com/channel/UCGQCK473y181BjNMJLrW11g) etc.
 
 # Event Calendar
 Feel free to send a message or mail to one of the VSec moderators to get your non-profit event registered in the event calendar. 
