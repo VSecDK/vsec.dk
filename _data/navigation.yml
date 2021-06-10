@@ -65,6 +65,12 @@ sidebar-projects:
       - title: "Project D"
         url: /
 
+sidebar-event:
+  - title: "Event planning"
+    children:
+      - title: "Streaming Guide"
+        url: /streaming-guide/
+
 sidebar-members:
   - title: "Members"
     children:
