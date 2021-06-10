@@ -9,6 +9,8 @@ main:
    url: /contributing/
  - title: "About"
    url: /about/
+ - title: "Code of Conduct"
+   url: /coc/
  - title: "Join Discord"
    url: https://discord.gg/XCUja4Q
 
