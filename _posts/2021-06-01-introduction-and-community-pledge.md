@@ -22,7 +22,7 @@ VSec is foremost an infosec-community by the community. We aim to contribute to 
   - Lists of verified community members and moderators
 
 # Community Pledge
-We the VSec community pledge to aim to be a community for the community by uniting security interested people while respecting that all humans are equal. Members in the VSec community are therefor expected to act accordingly to the [Code of Conduct](https://vsec.dk/about/#code-of-conduct) to make sure that everybody feels included and welcome in our community. 
+We the VSec community pledge to aim to be a community for the community by uniting security interested people while respecting that all humans are equal. Members in the VSec community are therefor expected to act accordingly to the [Code of Conduct](https://vsec.dk/coc/) to make sure that everybody feels included and welcome in our community. 
 
 ## English as publishing language
 We have chosen English as the main language for our website and public community contributions (projects, blogs) since they might be valuable to broader audience than the VSec members. Local community events on the otherhand could be held in Danish and/or English.
@@ -40,7 +40,7 @@ VSec currently needs sponsors and/or contributors for the following:
  - Animated scenes and graphics for streaming events.
  - Merchandise (InfoSec Swag) for giveaways during events and small contests on Discord.
 
-Please read what you will get out of sponsoring by reading the [sponsor section](vsec.dk/contributing/#sponsors) and contract, if you are interested in sponsoring VSec. The information can be found on the [contributing page](https://vsec.dk/contributing/).
+Please read what you will get out of sponsoring by reading the [sponsor section](https://vsec.dk/contributing/#sponsors---background) and contract, if you are interested in sponsoring VSec. The information can be found on the [contributing page](https://vsec.dk/contributing/).
 
 All contributions are welcome and valuable/large community contributions/sponsors will be featured on the VSec website.
 
