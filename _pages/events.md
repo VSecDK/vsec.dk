@@ -13,6 +13,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | 27/6 @ 13:00 - 17:00 | Cryptohagen Meetup | Privacy | Cryptohagen | [Link](https://cryptohagen.dk/)|  
 | 19/8 to 26/8 2021 | Bornhack | Makers/Hackers | Bornhack | [Link](https://bornhack.dk/bornhack-2021/)|  
 | 1/9 to 5/9 2021 | Sommerhack | Makers/Hackers | OSAA / HAL9K | [Link](https://sommerhack.dk/)| 
+| 17/9 to 18/9 2021 | BSides København 2021 | Community Conference | BSides København | [Link](https://bsideskbh.dk/)| 
 
 ## Event Guidelines
 
