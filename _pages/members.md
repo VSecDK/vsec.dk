@@ -325,5 +325,9 @@ Work: Freelance Senior Consultant
 [https://www.linkedin.com/in/rolandjorgensen/](https://www.linkedin.com/in/rolandjorgensen/)  
 
 ## Niklas Falk (nfp)   
-Work: Security Advisor at Improsec A/S  
+Work: Security Advisor @ Improsec A/S  
 [https://www.linkedin.com/in/nichlas-falk-3128b910a/](https://www.linkedin.com/in/nichlas-falk-3128b910a/)  
+
+## Kasper Houlind (imsohoar)   
+Work: Student Worker Identity, Governace & Administration @ BEC 
+[https://www.linkedin.com/in/kasper-houlind/](https://www.linkedin.com/in/kasper-houlind/)  
