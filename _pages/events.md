@@ -22,7 +22,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 - Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Only non-profit events are allowed.
-- Only use royalty free music and graphics that are not under copyright.
+- Only use royalty free music and graphics that are not under copyright if the event are to be streamed by VSec.
 
 # Past events
 
