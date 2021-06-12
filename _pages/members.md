@@ -329,5 +329,5 @@ Work: Security Advisor @ Improsec A/S
 [https://www.linkedin.com/in/nichlas-falk-3128b910a/](https://www.linkedin.com/in/nichlas-falk-3128b910a/)  
 
 ## Kasper Houlind (imsohoar)   
-Work: Student Worker Identity, Governace & Administration @ BEC 
+Work: Student Worker Identity, Governace & Administration @ BEC  
 [https://www.linkedin.com/in/kasper-houlind/](https://www.linkedin.com/in/kasper-houlind/)  
