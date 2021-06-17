@@ -12,14 +12,14 @@ tags:
 # What is VSec?
 VSec is foremost an infosec-community by the community. We aim to contribute to the Danish Infosec Community by offering a medium to meet and create with other great information security interested individuals, including facilitating and supporting that process. More concrete we want to offer the following:  
 
-- Community communication platform on Discord
-- Community Projects hosted on the VSec GitHub Organization
+- Community communication platform on Discord - [Join us!](https://discord.gg/XCUja4Q)
+- [Community Projects](https://vsec.dk/projects/) hosted on the VSec GitHub Organization
 - Events by and for the InfoSec community facilitated by VSec and the community groups
 - Website with:
   - Information Security related community blog, for both experienced professionals and students in the infosec field
-  - Calendar making it possible to get an overview of all danish information security events
+  - [Event calendar](https://vsec.dk/events/) making it possible to get an overview of all non-profit danish information security events
   - Overview over Danish infosec communities
-  - Lists of verified community members and moderators
+  - Lists of [verified community members](https://vsec.dk/members/) and [moderators](https://vsec.dk/moderators/)
 
 # Community Pledge
 We the VSec community pledge to aim to be a community for the community by uniting security interested people while respecting that all humans are equal. Members in the VSec community are therefor expected to act accordingly to the [Code of Conduct](https://vsec.dk/coc/) to make sure that everybody feels included and welcome in our community. 
