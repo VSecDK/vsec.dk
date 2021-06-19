@@ -14,7 +14,7 @@ main:
  - title: "Join Discord"
    url: https://discord.gg/XCUja4Q
 
-sidebar-home:
+sidebar-front:
   - title: "Danish InfoSec Communities"
     children:
       - title: "OWASP Aarhus"
