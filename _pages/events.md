@@ -1,7 +1,7 @@
 ---
 permalink: /events/
 title: "Community Events"
-toc: true
+toc: false
 
 sidebar:
   nav: sidebar-events
