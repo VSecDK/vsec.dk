@@ -331,3 +331,7 @@ Work: Security Advisor @ Improsec A/S
 ## Kasper Houlind (imsohoar)   
 Work: Student Worker Identity, Governace & Administration @ BEC  
 [https://www.linkedin.com/in/kasper-houlind/](https://www.linkedin.com/in/kasper-houlind/)  
+
+## Gustav Stofberg (stofbergg)     
+Work: Security Consultant @ CSIS Security Group  
+[https://www.linkedin.com/in/gustav-s-b04b10153/](https://www.linkedin.com/in/gustav-s-b04b10153/)  
