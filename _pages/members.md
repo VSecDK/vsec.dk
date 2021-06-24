@@ -335,3 +335,9 @@ Work: Student Worker Identity, Governace & Administration @ BEC
 ## Gustav Stofberg (stofbergg)     
 Work: Security Consultant @ CSIS Security Group  
 [https://www.linkedin.com/in/gustav-s-b04b10153/](https://www.linkedin.com/in/gustav-s-b04b10153/)  
+
+## Stefan Daugaard Poulsen (cyberzed)  
+Work: Celestial Archon @ iPaper  
+[https://www.linkedin.com/in/cyberzed/](https://www.linkedin.com/in/cyberzed/)   
+[https://twitter.com/cyberzeddk](https://twitter.com/cyberzeddk)  
+
