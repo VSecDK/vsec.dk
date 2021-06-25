@@ -337,7 +337,7 @@ Work: Security Consultant @ CSIS Security Group
 [https://www.linkedin.com/in/gustav-s-b04b10153/](https://www.linkedin.com/in/gustav-s-b04b10153/)  
 
 ## Stefan Daugaard Poulsen (cyberzed)  
-Work: Celestial Archon @ iPaper  
+Work: Head of Infrastructure & Security @ iPaper  
 [https://www.linkedin.com/in/cyberzed/](https://www.linkedin.com/in/cyberzed/)   
 [https://twitter.com/cyberzeddk](https://twitter.com/cyberzeddk)  
 
