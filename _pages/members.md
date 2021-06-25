@@ -341,3 +341,6 @@ Work: Celestial Archon @ iPaper
 [https://www.linkedin.com/in/cyberzed/](https://www.linkedin.com/in/cyberzed/)   
 [https://twitter.com/cyberzeddk](https://twitter.com/cyberzeddk)  
 
+## Thomas Arnskov Holdgaard Lützen (Tinf0il)  
+Work: Consultant @ CSIS Security Group  
+[https://www.linkedin.com/in/thomashlutzen/](https://www.linkedin.com/in/thomashlutzen/)   
