@@ -56,13 +56,13 @@ sidebar-contributing:
 sidebar-projects:
   - title: "Projects"
     children:
-      - title: "Project A"
+      - title: "VSec CTI League"
+        url: https://github.com/VSecDK/VSec-CTI-League
+      - title: "Project X"
         url: /
-      - title: "Project B"
+      - title: "Project Y"
         url: /
-      - title: "Project C"
-        url: /
-      - title: "Project D"
+      - title: "Project Z"
         url: /
 
 sidebar-events:
