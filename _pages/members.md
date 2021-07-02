@@ -46,7 +46,7 @@ Work: Lead Information Security Analyst @ Ørsted
 [https://www.linkedin.com/in/eitanlevi/](https://www.linkedin.com/in/eitanlevi/)  
 
 ## Jesper Kastoft Bertelsen (Jkb)
-Work: Security Specialist @ TDC Group  
+Work: Senior Security Analyst @ Conscia  
 [https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140/](https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140//)  
 
 ## Flemming Jacobsen (Batmule)  
