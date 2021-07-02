@@ -11,6 +11,7 @@ tags:
 
 
 VSec launched a few months ago and already we have rocketed to over 300 active users. 🎉  
+
 This is the signs that we are beginning to build a community!   
 But a community is only a community when it is being nurtured and enabled to become a tool for connecting people.
 
