@@ -1,5 +1,5 @@
 ---
-title: "VSec presents: "David and friends""
+title: "VSec presents: David and friends"
 date: 2021-07-02
 author: David Thejl-Clayton
 categories:
