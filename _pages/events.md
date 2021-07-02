@@ -17,7 +17,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 # Event Calendar
 
-| Date & Time | Event | Topic | Community | Event Link | Event Recording / Slides |
+| Date | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
 | 17/9 to 18/9 2021 | BSides København 2021 | Community Conference | BSides København | [Link](https://bsideskbh.dk/)| |  
 | 1/9 to 5/9 2021 | Sommerhack | Makers/Hackers | OSAA / HAL9K | [Link](https://sommerhack.dk/)| |  
