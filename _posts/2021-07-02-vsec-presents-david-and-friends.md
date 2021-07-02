@@ -26,10 +26,18 @@ We will make sure that the sessions are recorded in case you are unable to make 
 The sessions will start on August 5th and continue every 2nd week throughout 2021. With respect of family situation etc, the date may be subject to change but this will be communicated with good notice through the VSec Discord and on the [event calendar](https://vsec.dk/events/)!
 
 **Initial session plan**  
-August 5th - Introduction to Cyber Threat Intelligence  
-August 19th - The importance of collecting your own data ([Obsidian](https://obsidian.md/) workshop)  
-September 2nd - Incident Classification Taxonomies, how to record your own CTI  
-September 16th - Codifying your incidents using [VERIS](http://veriscommunity.net/)   
+
+August 5th  
+Introduction to Cyber Threat Intelligence  
+
+August 19th  
+The importance of collecting your own data ([Obsidian](https://obsidian.md/) workshop)  
+
+September 2nd  
+Incident Classification Taxonomies, how to record your own CTI  
+
+September 16th  
+Codifying your incidents using [VERIS](http://veriscommunity.net/)   
 
 The events will be held in the event channel on the VSec [Discord Server](https://discord.gg/XCUja4Q) from 19.30 to 21.00 GMT+1 on the announced dates
 
