@@ -344,3 +344,8 @@ Work: Head of Infrastructure & Security @ iPaper
 ## Thomas Arnskov Holdgaard Lützen (Tinf0il)  
 Work: Consultant @ CSIS Security Group  
 [https://www.linkedin.com/in/thomashlutzen/](https://www.linkedin.com/in/thomashlutzen/)   
+
+## Jesper Hess (Graffen)   
+Work: Security Architect @ TDC Group  
+[https://twitter.com/graffen](https://twitter.com/graffen)   
+[https://www.linkedin.com/in/graffen/](https://www.linkedin.com/in/graffen/)  
