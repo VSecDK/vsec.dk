@@ -351,5 +351,5 @@ Work: Security Architect @ TDC Group
 [https://www.linkedin.com/in/graffen/](https://www.linkedin.com/in/graffen/)  
 
 ## Mousa Yuusufi (fuji)   
-Work: Freelance Security Consultant  
+Work: Freelance Cyber Security Specialist  
 [https://www.linkedin.com/in/mousa-yuusufi/](https://www.linkedin.com/in/mousa-yuusufi/)  
