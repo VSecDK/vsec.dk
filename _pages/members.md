@@ -349,3 +349,7 @@ Work: Consultant @ CSIS Security Group
 Work: Security Architect @ TDC Group  
 [https://twitter.com/graffen](https://twitter.com/graffen)   
 [https://www.linkedin.com/in/graffen/](https://www.linkedin.com/in/graffen/)  
+
+## Mousa Yuusufi (fuji)   
+Work: Freelance Security Consultant  
+[https://www.linkedin.com/in/mousa-yuusufi/](https://www.linkedin.com/in/mousa-yuusufi/)  
