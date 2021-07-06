@@ -305,7 +305,7 @@ IT Security Student @ KEA
 [https://www.linkedin.com/in/babak-bandpey-a18797140/](https://www.linkedin.com/in/babak-bandpey-a18797140/)  
 
 ## Henrik Larsson (Henrik Larsson)   
-Work: Experienced IT Security Practitioner & Technical Sales Engineer @ Palo Alto Networks
+Work: Experienced IT Security Practitioner & Technical Sales Engineer @ Palo Alto Networks   
 [https://www.linkedin.com/in/henriklarsson/](https://www.linkedin.com/in/henriklarsson/)  
 
 ## Frederik Leed (Psynoz)   
@@ -353,3 +353,13 @@ Work: Security Architect @ TDC Group
 ## Mousa Yuusufi (fuji)   
 Work: Freelance Cyber Security Specialist  
 [https://www.linkedin.com/in/mousa-yuusufi/](https://www.linkedin.com/in/mousa-yuusufi/)  
+
+## Karsten Jefsen (Karsten Jefsen)   
+Work: Cyber Security Specialist @ VELUX  
+[https://www.linkedin.com/in/karstenjefsen/](https://www.linkedin.com/in/karstenjefsen/)  
+[https://twitter.com/JefsenKarsten](https://twitter.com/JefsenKarsten)  
+
+## Rasmus Barner (mrbarn3r)   
+Work: Security @ Lobyco  
+[https://www.linkedin.com/in/hasenfuss/](https://www.linkedin.com/in/hasenfuss/)  
+[https://twitter.com/mrbarn3r](https://twitter.com/mrbarn3r)  
