@@ -18,5 +18,5 @@ If any information on this website is confusing, incorrect, or incomplete, feel 
 
 # History
 July 2021 - 300 Members  
-June 2021 - 250 Members, First event on VSec by OWASP Copenhagen  
+June 2021 - 250 Members, first event on VSec by OWASP Copenhagen  
 September 2020 - VSec was founded by [Kristian Bodeholt](https://www.linkedin.com/in/kristianbodeholt/)  
