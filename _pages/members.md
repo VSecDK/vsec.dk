@@ -363,3 +363,8 @@ Work: Cyber Security Specialist @ VELUX
 Work: Security @ Lobyco  
 [https://www.linkedin.com/in/hasenfuss/](https://www.linkedin.com/in/hasenfuss/)  
 [https://twitter.com/mrbarn3r](https://twitter.com/mrbarn3r)  
+
+## Linus Lagerhjelm (linuslagerhjelm)   
+Work: Security Consultant @ Omegapoint   
+[https://twitter.com/linuslagerhjelm](https://twitter.com/linuslagerhjelm)  
+[https://www.linkedin.com/in/linus-lagerhjelm](https://www.linkedin.com/in/linus-lagerhjelm)  
