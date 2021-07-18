@@ -368,3 +368,7 @@ Work: Security @ Lobyco
 Work: Security Consultant @ Omegapoint   
 [https://twitter.com/linuslagerhjelm](https://twitter.com/linuslagerhjelm)  
 [https://www.linkedin.com/in/linus-lagerhjelm](https://www.linkedin.com/in/linus-lagerhjelm)  
+
+## Nikolaj Jensen-Holm (butthurtmad)   
+Studying Data Technican   
+[https://www.linkedin.com/in/nikolajjensen-holm/](https://www.linkedin.com/in/nikolajjensen-holm/)  
