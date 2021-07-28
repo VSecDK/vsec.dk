@@ -372,3 +372,8 @@ Work: Security Consultant @ Omegapoint
 ## Nikolaj Jensen-Holm (butthurtmad)   
 Studying Data Technican   
 [https://www.linkedin.com/in/nikolajjensen-holm/](https://www.linkedin.com/in/nikolajjensen-holm/)  
+
+## Daniel Stuhr Petersen (Løvstik)   
+Work: Software Developer @ Hesehus A/S   
+[https://www.linkedin.com/in/daniel-stuhr-petersen-8aa70414a/](https://www.linkedin.com/in/nikolajjensen-holm/)   
+
