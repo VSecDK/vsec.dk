@@ -377,3 +377,7 @@ Studying Data Technican
 Work: Software Developer @ Hesehus A/S   
 [https://www.linkedin.com/in/daniel-stuhr-petersen-8aa70414a/](https://www.linkedin.com/in/nikolajjensen-holm/)   
 
+## Kim Schulz (kimschulz)  
+Work: Staff Engineer, Software @ Samsung Denmark Research Center  
+[https://twitter.com/kimschulz](https://twitter.com/kimschulz)   
+[https://www.linkedin.com/in/kimschulz/](https://www.linkedin.com/in/kimschulz/)  
