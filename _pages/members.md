@@ -384,4 +384,5 @@ Work: Staff Engineer, Software @ Samsung Denmark Research Center
 
 ## Asbjørn Hoffskov Lund (ahoffskov)  
 Work: IT Security Consultant @ Region Nordjylland  
+[https://twitter.com/ahoffskov](https://twitter.com/ahoffskov)  
 [https://www.linkedin.com/in/ahoffskov/](https://www.linkedin.com/in/ahoffskov/)  
