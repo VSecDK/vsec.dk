@@ -381,3 +381,7 @@ Work: Software Developer @ Hesehus A/S
 Work: Staff Engineer, Software @ Samsung Denmark Research Center  
 [https://twitter.com/kimschulz](https://twitter.com/kimschulz)   
 [https://www.linkedin.com/in/kimschulz/](https://www.linkedin.com/in/kimschulz/)  
+
+## Asbjørn Hoffskov Lund (ahoffskov)  
+Work: IT Security Consultant @ Region Nordjylland  
+[https://www.linkedin.com/in/ahoffskov/](https://www.linkedin.com/in/ahoffskov/)  
