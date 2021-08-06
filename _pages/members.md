@@ -386,3 +386,8 @@ Work: Staff Engineer, Software @ Samsung Denmark Research Center
 Work: IT Security Consultant @ Region Nordjylland  
 [https://twitter.com/ahoffskov](https://twitter.com/ahoffskov)  
 [https://www.linkedin.com/in/ahoffskov/](https://www.linkedin.com/in/ahoffskov/)  
+
+## Mikkel Mikjaer Christensen (mikjaer)  
+Work: Owner @ Mikjaer Consulting  
+[https://twitter.com/mikjaer](https://twitter.com/mikjaer)  
+[https://www.linkedin.com/in/mikjaer/](https://www.linkedin.com/in/mikjaer/)  
