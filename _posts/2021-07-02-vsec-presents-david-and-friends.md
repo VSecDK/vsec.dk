@@ -36,7 +36,7 @@ The importance of collecting your own data ([Obsidian](https://obsidian.md/) wor
 September 16th  
 Incident Classification Taxonomies, how to record your own CTI  
 
-TBA
+TBA  
 Codifying your incidents using [VERIS](http://veriscommunity.net/)   
 
 The events will be held in the event channel on the VSec [Discord Server](https://discord.gg/XCUja4Q) from 19.30 to 21.00 GMT+1 on the announced dates
