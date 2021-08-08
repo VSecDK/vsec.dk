@@ -391,3 +391,8 @@ Work: IT Security Consultant @ Region Nordjylland
 Work: Owner @ Mikjaer Consulting  
 [https://twitter.com/mikjaer](https://twitter.com/mikjaer)  
 [https://www.linkedin.com/in/mikjaer/](https://www.linkedin.com/in/mikjaer/)  
+
+## Torben Krogh Johansen (Toby42)  
+Work: IT Security Specialist @ Jyske Bank  
+[https://twitter.com/JohansenKrogh](https://twitter.com/JohansenKrogh)  
+[https://www.linkedin.com/in/torben-krogh-johansen-26b11813/]https://www.linkedin.com/in/torben-krogh-johansen-26b11813/)  
