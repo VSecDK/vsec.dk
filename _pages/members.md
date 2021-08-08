@@ -398,6 +398,7 @@ Work: IT Security Specialist @ Jyske Bank
 [https://www.linkedin.com/in/torben-krogh-johansen-26b11813/](https://www.linkedin.com/in/torben-krogh-johansen-26b11813/)  
 
 ## Casper Mach Munksgaard (Casper Munksgaard)  
+Work: Cyber Security Consultant @ Combitech  
 [https://twitter.com/CasperMach/](https://twitter.com/CasperMach/)   
 [https://www.linkedin.com/in/caspermach/](https://www.linkedin.com/in/caspermach/)   
 
