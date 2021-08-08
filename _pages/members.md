@@ -395,4 +395,4 @@ Work: Owner @ Mikjaer Consulting
 ## Torben Krogh Johansen (Toby42)  
 Work: IT Security Specialist @ Jyske Bank  
 [https://twitter.com/JohansenKrogh](https://twitter.com/JohansenKrogh)  
-[https://www.linkedin.com/in/torben-krogh-johansen-26b11813/]https://www.linkedin.com/in/torben-krogh-johansen-26b11813/)  
+[https://www.linkedin.com/in/torben-krogh-johansen-26b11813/](https://www.linkedin.com/in/torben-krogh-johansen-26b11813/)  
