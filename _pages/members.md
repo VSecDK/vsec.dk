@@ -396,3 +396,8 @@ Work: Owner @ Mikjaer Consulting
 Work: IT Security Specialist @ Jyske Bank  
 [https://twitter.com/JohansenKrogh](https://twitter.com/JohansenKrogh)  
 [https://www.linkedin.com/in/torben-krogh-johansen-26b11813/](https://www.linkedin.com/in/torben-krogh-johansen-26b11813/)  
+
+## Casper Mach Munksgaard (Casper Munksgaard)  
+[https://twitter.com/CasperMach/](https://twitter.com/CasperMach/)   
+[https://www.linkedin.com/in/caspermach/](https://www.linkedin.com/in/caspermach/)   
+
