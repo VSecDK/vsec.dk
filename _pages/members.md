@@ -400,3 +400,11 @@ Work: IT Security Specialist @ Jyske Bank
 ## Casper Mach Munksgaard (Casper Munksgaard)  
 Work: Cyber Security Consultant @ Combitech  
 [https://www.linkedin.com/in/caspermach/](https://www.linkedin.com/in/caspermach/)   
+
+## Christian Henriksen (Guzzy)  
+Work: Incident Responder @ Region Midtjylland  
+[https://www.linkedin.com/in/cbhen/](https://www.linkedin.com/in/cbhen/)   
+
+## Jette Jerndal (jette)  
+IT-Security Student @ KEA - Københavns Erhvervsakademi  
+[https://www.linkedin.com/in/jettemarie/](https://www.linkedin.com/in/jettemarie/)   
