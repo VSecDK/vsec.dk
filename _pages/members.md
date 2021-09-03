@@ -180,7 +180,7 @@ Work: Associate Professor @ IT-Universitetet i København
 [https://www.linkedin.com/in/alessandrobruni/](https://www.linkedin.com/in/alessandrobruni/)  
 
 ## Simon B. Laursen (Simon)
-Work: Senior Software Engineer @ Danske Bank  
+Work: Freelance Software Engineer & Security Architect 
 [https://www.linkedin.com/in/simlau/](https://www.linkedin.com/in/simlau/)  
 
 ## Mitchell Impey (dk-mitch)
