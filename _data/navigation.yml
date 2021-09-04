@@ -58,12 +58,8 @@ sidebar-projects:
     children:
       - title: "VSec CTI League"
         url: https://github.com/VSecDK/VSec-CTI-League
-      - title: "Project X"
-        url: /
-      - title: "Project Y"
-        url: /
-      - title: "Project Z"
-        url: /
+      - title: "Security Landscape in Denmark"
+        url: https://github.com/VSecDK/Security-Landscape-DK
 
 sidebar-events:
   - title: "Event planning"
