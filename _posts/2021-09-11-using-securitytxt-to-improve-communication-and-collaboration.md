@@ -30,7 +30,7 @@ The new [proposed IETF draft]( https://datatracker.ietf.org/doc/html/draft-foudi
 
 ## Minimum required information 
 
-The proposed standard require that you have a ‘security.txt’ file within the entities site ‘.well-known’ folder with at least a [contact point](https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.3) in form an mail form/address and/or phone number for the entity's information security team. The last required element is information about when the security.txt information is to [expire]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.5) so that validity of the information can be confirmed.
+The proposed standard require that you have a `security.txt` file within the entities site `.well-known` folder with at least a [contact point](https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.3) in form an mail form/address and/or phone number for the entity's information security team. The last required element is information about when the security.txt information is to [expire]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.5) so that validity of the information can be confirmed.
 
 ## Optional information 
 * [Encryption]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.4) - A link to a key which security researchers should use to securely communicate to the security team. 
