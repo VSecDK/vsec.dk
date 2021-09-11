@@ -40,7 +40,7 @@ The proposed standard require that you have a `security.txt` file within the ent
 * [Policy]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.7) - A link to a policy detailing what security researchers should do before searching for or reporting security issues 
 * [Hiring]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.6) - A link to any security-related job openings within the entity organization. 
 
-There is even a great security.txt generator on https://securitytxt.org/ to help generate a security.txt file. 
+There is even a great security.txt generator on [https://securitytxt.org/](https://securitytxt.org/) to help generate a security.txt file. 
  
 You should also take a look at [policymaker at disclose.io](https://policymaker.disclose.io/policymaker/introduction) which aims to create a "one-stop-shop" policy generator for anyone launching a vulnerability disclosure program and among other things generate a security.txt file. 
 
