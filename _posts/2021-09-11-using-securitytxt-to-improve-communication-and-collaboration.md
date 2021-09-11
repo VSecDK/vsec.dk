@@ -90,8 +90,8 @@ You should checkout [this article about the history of the hackerstxt and securi
 **This article was written by [Kristian Bodeholt](https://www.linkedin.com/in/kristianbodeholt/) on behalf of the VSec Community**.   
 
 ### Sources  
-[https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12)
-[https://securitytxt.org/](https://securitytxt.org/)
+[https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12)  
+[https://securitytxt.org/](https://securitytxt.org/)  
 [https://twitter.com/securitytxt](https://twitter.com/securitytxt)  
 [https://en.wikipedia.org/wiki/Security.txt](https://en.wikipedia.org/wiki/Security.txt)  
 [https://www.bleepingcomputer.com/news/security/security-txt-standard-proposed-similar-to-robots-txt/](https://www.bleepingcomputer.com/news/security/security-txt-standard-proposed-similar-to-robots-txt/)  
