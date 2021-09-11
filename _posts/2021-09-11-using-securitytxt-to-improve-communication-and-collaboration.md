@@ -24,7 +24,7 @@ This have been a continues [topic](https://www.version2.dk/blog/skal-man-offentl
 
 For those unfamiliar with EnergiCERT – it's the Danish Energy Sectors Computer Emergency Response Team which handles high level incident response for the critical sector.  
 
-Other times security researcher or security interested individuals might even give up and discard their findings without sharing them due to effort required to identify the contact point with the entity or due to the risk of possible legal actions against them, as entity's security disclosure policy is unknown.    
+Other times security researchers or security interested individuals might even give up and discard their findings without sharing them due to effort required to identify the contact point with the entity or due to the risk of possible legal actions against them, as entity's security disclosure policy is unknown.    
 
 The new [proposed IETF draft]( https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) for security.txt sets out to help fix that. 
 
@@ -78,7 +78,7 @@ You can use this Danish/English template:
 >   
 > Jeg skriver på vegne af et non-profit IT-sikkerheds fællesskab i Danmark kaldet VSec, for at informere om en ny internetstandard. Standarden har til formål at skabe offentligt tilgængelige retningslinjer for struktureret kontakt til sikkerhedsafdelinger i forbindelse med fund af IT-sikkerhedsrelaterede sårbarheder hos virksomheder, organisationer og foreninger.  
 >  
->Hvis du er interesserede i at vide mere, kan du læse følgende artikel: [https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/](https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/), denne draft standard: [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) eller gå direkte til den gratis generator på [https://securitytxt.org/](https://securitytxt.org/) for at lave jeres security.txt fil med informationer og retningslinjer for ekstern kontakt til jeres sikkerhedsafdeling.  
+>Hvis du er interesseret i at vide mere, kan du læse følgende artikel: [https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/](https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/), denne draft standard: [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) eller gå direkte til den gratis generator på [https://securitytxt.org/](https://securitytxt.org/) for at lave jeres security.txt fil med informationer og retningslinjer for ekstern kontakt til jeres sikkerhedsafdeling.  
 >  
 >Med venlig hilsen  
 >IT-sikkerheds fællesskabet VSec i Danmark.
