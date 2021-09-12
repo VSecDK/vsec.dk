@@ -33,6 +33,7 @@ Introduction to Cyber Threat Intelligence
 
 September 2nd   
 The importance of collecting your own data ([Obsidian](https://obsidian.md/) workshop)  
+{% include video id="Sg4EHythS34" provider="youtube" %}  
 
 September 16th  
 Incident Classification Taxonomies, how to record your own CTI  
