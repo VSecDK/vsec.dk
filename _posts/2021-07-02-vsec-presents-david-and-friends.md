@@ -29,6 +29,7 @@ The sessions will start on August 5th and continue every 2nd week throughout 202
 
 August 19th  
 Introduction to Cyber Threat Intelligence  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GETWscyu8P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 September 2nd   
 The importance of collecting your own data ([Obsidian](https://obsidian.md/) workshop)  
