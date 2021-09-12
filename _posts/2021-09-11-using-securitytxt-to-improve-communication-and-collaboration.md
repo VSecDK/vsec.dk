@@ -89,7 +89,7 @@ You should checkout [this article about the history of the hackerstxt and securi
 
 **This article was written by [Kristian Bodeholt](https://www.linkedin.com/in/kristianbodeholt/) on behalf of the VSec Community**.  
   
-> A big thank you goes out to Jonas Smedegaard, Kenneth Jørgensen and Klaus Agnoletti for contributing to the community article, giving feedback/constructive criticism and in general just being awesome.  
+> A big thank you goes out to Jonas Smedegaard, Kenneth Jørgensen and Klaus Agnoletti for contributing to the community article, giving feedback/constructive criticism and in general just for being awesome.  
 
 ### Sources  
 [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12)  
