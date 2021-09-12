@@ -88,7 +88,8 @@ Interested in the history about how security.txt came to be and why it's a propo
 You should checkout [this article about the history of the hackerstxt and securitytxt files](https://medium.com/takeaway-tech/the-history-of-the-hackerstxt-and-securitytxt-files-95c0a3be43a9) by [Ben Peachey](https://twitter.com/potherca). 
 
 **This article was written by [Kristian Bodeholt](https://www.linkedin.com/in/kristianbodeholt/) on behalf of the VSec Community**.  
-Thank you to Jonas Smedegaard, Kenneth Jørgensen, Eitan Levi and Klaus Agnoletti for contributing to the community article and giving feedback/constructive criticism.  
+  
+> A big thank you goes out to Jonas Smedegaard, Kenneth Jørgensen, Eitan Levi and Klaus Agnoletti for contributing to the community article, giving feedback/constructive criticism and in general just being awesome.  
 
 ### Sources  
 [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12)  
