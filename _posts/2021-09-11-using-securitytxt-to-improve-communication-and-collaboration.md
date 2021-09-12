@@ -15,7 +15,7 @@ There have been multiple cases in Denmark where attempts to contact various dani
 
 ## Security disclosure gone wrong 
 
-Take the case where a danish parent/hacker found a [security flaw](https://www.version2.dk/artikel/foraeldre-finder-banale-sikkerhedshuller-i-udbredt-it-system-til-boernehaver-247985) in a kiosk system used to check-in/out kids attendance from the kindergarten that enabled him to see personal information on some of the kids that were registered in the system. The case went sour after he failed to get a contact to the security department of the system supplier and they ended up suing him due to - what seems to be a sub-optimal process from both parties.  
+Take the case where a danish parent/hacker found a [security flaw](https://www.version2.dk/artikel/foraeldre-finder-banale-sikkerhedshuller-i-udbredt-it-system-til-boernehaver-247985) in a kiosk system used to check-in/out kids attendance in the kindergarten, that enabled him to see personal information on some of the kids that were registered in the system. The case went sour after he failed to get a contact to the security department of the system supplier and they ended up suing him due to - what seems to be a sub-optimal process from both parties. The common problem seems to be in these cases, that the companies in question does not have a proper process to effectively handle the disclosure situation.
 
 This have been a continues [topic](https://www.version2.dk/blog/skal-man-offentliggoere-sikkerhedshul-1077263) over the years globally on how to get a hold of, and handle disclosure of security flaws to vendors, companies and organizations.  
 
