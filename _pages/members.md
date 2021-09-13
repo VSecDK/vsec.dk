@@ -408,3 +408,11 @@ Work: Incident Responder @ Region Midtjylland
 ## Jette Jerndal (jette)  
 IT-Security Student @ KEA - Københavns Erhvervsakademi  
 [https://www.linkedin.com/in/jettemarie/](https://www.linkedin.com/in/jettemarie/)   
+
+## Freddy Murre (Furdy)  
+Senior Threat Intelligence Analyst @ Nordic Financial CERT  
+[https://www.linkedin.com/in/fmurre/](https://www.linkedin.com/in/fmurre/)   
+
+## Simon Refslund (SimonR)  
+IT-Security Consultant @ ECIT Danmark  
+[https://www.linkedin.com/in/simon-refslund-2096b66b/](https://www.linkedin.com/in/simon-refslund-2096b66b/)   
