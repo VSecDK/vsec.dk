@@ -35,6 +35,7 @@ timezone: Europe/Copenhagen
 
 include:
   - _pages
+   - .well-known
 
 # Plugins (previously gems:)
 plugins:
