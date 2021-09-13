@@ -67,7 +67,7 @@ You can use this Danish/English template:
 >   
 > I'm writing on behalf of a non-profit IT security community in Denmark called VSec, to inform about a new internet standard. The standard aims to create publicly available guidelines for structured contact to security departments in connection with the discovery of IT security-related vulnerabilities in companies, organisations and associations.  
 >     
-> If you are interested in knowing more, you can read the following article: [https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/](https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/), this draft standard: [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) or go directly to the free generator at [https://securitytxt.org/](https://securitytxt.org/) to create your security.txt file with information and guidelines for external contact to your security department.  
+> If you are interested in knowing more, you can read the following article: [https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/](https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/) and the draft standard: [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) or go directly to the free security.txt generator at [https://securitytxt.org/](https://securitytxt.org/) to create your security.txt file with information and guidelines for external contact to your security department.  
 >   
 > Yours sincerely,  
 > The IT security community VSec in Denmark.  
@@ -78,7 +78,7 @@ You can use this Danish/English template:
 >   
 > Jeg skriver på vegne af et non-profit IT-sikkerheds fællesskab i Danmark kaldet VSec, for at informere om en ny internetstandard. Standarden har til formål at skabe offentligt tilgængelige retningslinjer for struktureret kontakt til sikkerhedsafdelinger i forbindelse med fund af IT-sikkerhedsrelaterede sårbarheder hos virksomheder, organisationer og foreninger.  
 >  
->Hvis du er interesseret i at vide mere, kan du læse følgende artikel: [https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/](https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/), denne draft standard: [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) eller gå direkte til den gratis generator på [https://securitytxt.org/](https://securitytxt.org/) for at lave jeres security.txt fil med informationer og retningslinjer for ekstern kontakt til jeres sikkerhedsafdeling.  
+>Hvis du er interesseret i at vide mere, kan du læse følgende artikel: [https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/](https://vsec.dk/using-securitytxt-to-improve-communication-and-collaboration/) og denne draft standard: [https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12](https://datatracker.ietf.org/doc/html/draft-foudil-securitytxt-12) eller gå direkte til den gratis security.txt generator på [https://securitytxt.org/](https://securitytxt.org/) for at lave jeres security.txt fil med informationer og retningslinjer for ekstern kontakt til jeres sikkerhedsafdeling.  
 >  
 >Med venlig hilsen  
 >IT-sikkerheds fællesskabet VSec i Danmark.
