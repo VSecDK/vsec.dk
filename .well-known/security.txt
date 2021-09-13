@@ -1,0 +1,8 @@
+Contact: mailto:vsec-community@protonmail.com
+Expires: 2022-12-31T23:01:00.000Z
+Encryption: Shared on request
+Acknowledgments: https://vsec.dk/contributing/#valuable-community-contributors
+Preferred-Languages: da, en
+Canonical: https://vsec.dk/.well-known/security.dk
+Policy: Contact us by e-mail or mention @Vsec on Twitter if security issues is found
+Hiring: N/A
