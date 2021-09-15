@@ -83,6 +83,9 @@ You can use this Danish/English template:
 >  
 >Med venlig hilsen  
 >IT-sikkerheds fællesskabet VSec i Danmark.
+
+## Security.txt for security researchers
+Security scanning service [shodan.io](https://shodan.io) decided in January 2021 to include [security.txt directly in their asset scanning results](https://twitter.com/shodanhq/status/1345152259760549888?lang=en ) and all danish scanned IP's with a associated security.txt can be found through this [query](https://beta.shodan.io/search?query=http.securitytxt%3Acontact+country%3A%22DK%22) (login requried).
  
 ## History of hackers.txt and the new proposed IETF standard  
 Interested in the history about how security.txt came to be and why it's a proposed standard today?  
