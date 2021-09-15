@@ -418,5 +418,6 @@ IT-Security Consultant @ ECIT Danmark
 [https://www.linkedin.com/in/simon-refslund-2096b66b/](https://www.linkedin.com/in/simon-refslund-2096b66b/)   
 
 ## Dominykas Vaitkus (Dominykas)  
-CyberSecurity Enthusiast  
-[https://www.linkedin.com/in/dominykasvaitkus/](https://www.linkedin.com/in/dominykasvaitkus/)   
+CyberSecurity Enthusiast & Video Producer  
+[https://www.linkedin.com/in/dominykasvaitkus/](https://www.linkedin.com/in/dominykasvaitkus/)  
+[https://dominyko.com/](https://dominyko.com/)  
