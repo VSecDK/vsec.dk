@@ -52,6 +52,7 @@ Disclaimer: the list is compiled from a scan on the 1st of September 2021, pleas
 [Norlys](https://norlys.dk/.well-known/security.txt)  
 [EnergiCERT](https://energicert.dk/.well-known/security.txt)  
 [Jyske Bank](https://jyskebank.dk/.well-known/security.txt)  
+[Tryg](https://tryg.dk/.well-known/security.txt)  
 [Danske Spil](https://danskespil.dk/.well-known/security.txt)  
 [VSec](https://vsec.dk/.well-known/security.txt)  
 [William Dam](https://www.williamdam.dk/security.txt)  
