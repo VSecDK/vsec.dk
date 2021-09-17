@@ -50,12 +50,12 @@ Disclaimer: the list is compiled from a scan on the 1st of September 2021, pleas
 
 [TV2](https://tv2.dk/.well-known/security.txt)  
 [Norlys](https://norlys.dk/.well-known/security.txt)  
-[William Dam](https://www.williamdam.dk/security.txt)  
-[Benns Rejser](https://benns.dk/.well-known/security.txt)  
-[Google](https://google.dk/.well-known/security.txt)  
 [EnergiCERT](https://energicert.dk/.well-known/security.txt)  
 [Jyske Bank](https://jyskebank.dk/.well-known/security.txt)  
+[Danske Spil](https://danskespil.dk/.well-known/security.txt)  
 [VSec](https://vsec.dk/.well-known/security.txt)  
+[William Dam](https://www.williamdam.dk/security.txt)  
+[Benns Rejser](https://benns.dk/.well-known/security.txt)  
 
 ## What can we do as a community?  
 
