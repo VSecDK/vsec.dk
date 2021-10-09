@@ -11,7 +11,7 @@ tags:
   - Disclosure 
 ---
 
-There have been multiple cases in Denmark where attempts to contact various danish security teams have had a bad outcome due to missing/unclear security disclosure policies and the lack of information on how to find a relevant points of security contact within a specific company.  
+There have been multiple cases where attempts to contact security teams have had a bad outcome due to missing/unclear security disclosure policies and the general lack of information on how to find a relevant security point of contact within a company.  
 
 ## Security disclosure gone wrong 
 
@@ -33,16 +33,16 @@ The new [proposed IETF draft]( https://datatracker.ietf.org/doc/html/draft-foudi
 The proposed standard require that you have a `security.txt` file within the entities site `.well-known` folder with at least a [contact point](https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.3) in form an mail form/address and/or phone number for the entity's information security team. The last required element is information about when the security.txt information is to [expire]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.5) so that validity of the information can be confirmed.
 
 ## Optional information 
-* [Encryption]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.4) - A link to a key which security researchers should use to securely communicate to the security team. 
-* [Acknowledgments]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.1) - A link to a web page where the entity can say thank you to security researchers who have helped the security team. 
+* [Encryption]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.4) - A link to a public encrypt key which security researchers should use to securely communicate to the security team. 
+* [Acknowledgments]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.1) - A link to a web page where the entity can acknowledge security researchers who have helped the security team. 
 * [Preferred-Languages]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.8) - A comma-separated list of language codes that the entities security team can communicate in. 
-* [Canonical]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.2) - The URLs for accessing your security.txt file. It is important to include this if the entity is digitally signing the security.txt file, so that the location of the security.txt file can be digitally signed too 
-* [Policy]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.7) - A link to a policy detailing what security researchers should do before searching for or reporting security issues 
-* [Hiring]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.6) - A link to any security-related job openings within the entity organization. 
+* [Canonical]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.2) - The URLs for accessing your security.txt file. It is important to include this if the entity is digitally signing the security.txt file, so that the location of the security.txt file can be digitally signed too. 
+* [Policy]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.7) - A link to a policy detailing what security researchers should do before searching for or reporting security issues. 
+* [Hiring]( https://tools.ietf.org/html/draft-foudil-securitytxt-12#section-3.5.6) - A link to security-related job openings within the entity organization. 
 
 There is even a great security.txt generator on [https://securitytxt.org/](https://securitytxt.org/) to help generate a security.txt file. 
  
-You should also take a look at [policymaker at disclose.io](https://policymaker.disclose.io/policymaker/introduction) which aims to create a "one-stop-shop" policy generator for anyone launching a vulnerability disclosure program and among other things generate a security.txt file. 
+You should also take a look at [policymaker at disclose.io](https://policymaker.disclose.io/policymaker/introduction) which aims to create a "one-stop-shop" policy generator for anyone launching a vulnerability disclosure program and among other things, generate a security.txt file. 
 
 ## Danish Security.txt hall of fame 
 
