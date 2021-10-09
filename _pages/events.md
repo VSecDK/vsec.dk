@@ -19,6 +19,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
+| 28/11 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
 | 31/10 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
 | 16/10 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - October | Security / Crypto | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/281291184/) | N/A | 
 | 5/10 @ 17:00 - 19:00 | Improhound Workshop + Talk | Security | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/280774265/) | [Link](https://www.youtube.com/watch?v=kl1ToubX-yk) |  
