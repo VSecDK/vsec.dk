@@ -17,7 +17,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   the different local infosec groups in Denmark by providing a shared communication platform. 
   VSec is meant to be a community for the community by the community.
 twitter_username: VSecDK
-github_username: Viking-Security
+github_username: VSecDK
 search: true
 
 # Build settings
