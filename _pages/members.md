@@ -421,3 +421,8 @@ IT-Security Consultant @ ECIT Danmark
 CyberSecurity Enthusiast & Video Producer  
 [https://www.linkedin.com/in/dominykasvaitkus/](https://www.linkedin.com/in/dominykasvaitkus/)  
 [https://dominyko.com/](https://dominyko.com/)  
+
+## David Jochumsen (Spiffysec)  
+Cyber Security Analyst @ JN Data  
+[https://www.linkedin.com/in/david-jochumsen/](https://www.linkedin.com/in/david-jochumsen/)  
+[https://twitter.com/spiffysec](https://twitter.com/spiffysec)  
