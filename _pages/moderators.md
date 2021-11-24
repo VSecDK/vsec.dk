@@ -15,7 +15,7 @@ Work: Senior Security Specialist @ Jyske Bank A/S
 [https://twitter.com/bodeholt](https://twitter.com/bodeholt)  
 
 ## Klaus Agnoletti (Klaus Agnoletti)
-Work: Senior Security Architect @ nemlig.com  
+Work: Head of Community @ CrowdSec
 [https://www.linkedin.com/in/agnoletti/](https://www.linkedin.com/in/agnoletti/)  
 [https://twitter.com/klausagnoletti](https://twitter.com/klausagnoletti)  
 
