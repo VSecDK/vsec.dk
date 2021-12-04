@@ -434,3 +434,7 @@ IT-sikkerhedsspecialist @ Region Midtjylland
 ## Jesper Stark  (Jesper Stark)  
 Compliance Engineer @ Cryptomathic  
 [https://www.linkedin.com/in/j-stark/](https://www.linkedin.com/in/j-stark/)  
+
+## Anders Ernstpriis Kusk (Anders Kusk)  
+Security Advisor @ Improsec A/S  
+[https://www.linkedin.com/in/anders-kusk/](https://www.linkedin.com/in/anders-kusk/)  
