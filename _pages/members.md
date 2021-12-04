@@ -438,3 +438,4 @@ Compliance Engineer @ Cryptomathic
 ## Anders Ernstpriis Kusk (Anders Kusk)  
 Security Advisor @ Improsec A/S  
 [https://www.linkedin.com/in/anders-kusk/](https://www.linkedin.com/in/anders-kusk/)  
+[https://twitter.com/anderskusk](https://twitter.com/anderskusk)  
