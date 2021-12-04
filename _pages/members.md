@@ -430,3 +430,7 @@ Cyber Security Analyst @ JN Data
 ## Carl Melgaard (killergate)  
 IT-sikkerhedsspecialist @ Region Midtjylland  
 [https://www.linkedin.com/in/melgaard/](https://www.linkedin.com/in/melgaard/)  
+
+## Jesper Stark  (Jesper Stark)  
+Compliance Engineer @ Cryptomathic  
+[https://www.linkedin.com/in/j-stark/](https://www.linkedin.com/in/j-stark/)  
