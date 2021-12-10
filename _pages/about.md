@@ -7,8 +7,7 @@ sidebar:
   nav: sidebar-members
 ---
 
-VSec is a danish non-profit InfoSec community that are trying to "unify" the different local infosec groups in Denmark by providing a shared communication platform. VSec is meant to be a community for the community by the community, therefor all the local community crew members has the possibility to be part of the community board channel and control how the community is run/handled (CoC, guidelines, rules, events etc.).  
-The different sub-community crew's handle their own sub-channels on the community server.
+VSec is a danish non-profit InfoSec community that are trying to "unify" the different local infosec groups in Denmark by providing a shared communication platform. VSec is meant to be a community for the community by the community, therefor all the local community crew members has the possibility to be part of the community board channel and control how the community is run/handled (CoC, guidelines, rules, events etc.). The different sub-community crew's handle their own sub-channels on the community server.   
 
 # Contact
 E-mail: [VSec-Community@protonmail.com](mailto:VSec-Community@protonmail.com)  
