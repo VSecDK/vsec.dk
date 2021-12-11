@@ -16,7 +16,7 @@ E-mail: [VSec-Community@protonmail.com](mailto:VSec-Community@protonmail.com)
 If any information on this website is confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/VSecDK/vsec.dk/issues/new) for help.
 
 # History
-December 2021 - 400 Members
+December 2021 - 400 Members  
 September 2021 - 350 Members  
 July 2021 - 300 Members  
 June 2021 - 250 Members, first event on VSec by OWASP Copenhagen  
