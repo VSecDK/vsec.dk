@@ -440,6 +440,6 @@ Security Advisor @ Improsec A/S
 [https://www.linkedin.com/in/anders-kusk/](https://www.linkedin.com/in/anders-kusk/)  
 [https://twitter.com/anderskusk](https://twitter.com/anderskusk)  
 
-## Morten Von Seelen (BenDover)    
+## Morten Von Seelen (Hyggen)    
 CEO @ Truesec A/S part of Truesec Group  
 [https://www.linkedin.com/in/vonseelen/](https://www.linkedin.com/in/vonseelen/)   
