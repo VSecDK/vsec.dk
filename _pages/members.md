@@ -443,3 +443,7 @@ Security Advisor @ Improsec A/S
 ## Morten Von Seelen (Hyggen)    
 CEO @ Truesec A/S part of Truesec Group  
 [https://www.linkedin.com/in/vonseelen/](https://www.linkedin.com/in/vonseelen/)   
+
+## Anders Strøm Møller (DanishDude)    
+Network Specialist @ Bang & Olufsen  
+[https://www.linkedin.com/in/anders-stroem/](https://www.linkedin.com/in/anders-stroem/)   
