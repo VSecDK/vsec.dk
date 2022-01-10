@@ -447,3 +447,8 @@ CEO @ Truesec A/S part of Truesec Group
 ## Anders Strøm Møller (DanishDude)    
 Network Specialist @ Bang & Olufsen  
 [https://www.linkedin.com/in/anders-stroem/](https://www.linkedin.com/in/anders-stroem/)   
+
+## Henrik Frands Wojcik (H.Wojcik)   
+Senior Cloud Specialist @ Bankdata  
+[https://www.linkedin.com/in/henrikfrandswojcik/](https://www.linkedin.com/in/henrikfrandswojcik/)   
+[https://twitter.com/henrikwojcik](https://twitter.com/henrikwojcik)   
