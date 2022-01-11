@@ -452,3 +452,8 @@ Network Specialist @ Bang & Olufsen
 Senior Cloud Specialist @ Bankdata  
 [https://www.linkedin.com/in/henrikfrandswojcik/](https://www.linkedin.com/in/henrikfrandswojcik/)   
 [https://twitter.com/henrikwojcik](https://twitter.com/henrikwojcik)   
+
+## Anders Høgedal Kortsen (anderskortsen)
+Senior Security Consultant @ VENZO   
+[https://www.linkedin.com/in/andershoegedalkortsen/](https://www.linkedin.com/in/andershoegedalkortsen/)   
+[https://twitter.com/anderskortsen](https://twitter.com/anderskortsen)   
