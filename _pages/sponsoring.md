@@ -4,8 +4,7 @@ title: "Sponsoring VSec"
 toc: true
 
 sidebar:
-  title: "Post Archive"
-  nav: sidebar-posts
+  nav: sidebar-contributing
 ---
 
 # Sponsor information
