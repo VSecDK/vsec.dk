@@ -7,8 +7,6 @@ sidebar:
   nav: sidebar-contributing
 ---
 
-# Sponsor information
-
 VSec is a thriving newly founded (September 2020) information security community that are trying to unify the different local fragmented community groups on a shared communication (Discord) and code contribution (GitHub) platform.
 
 The target audience is IT and information security consultants, information security officers and other security professionals combined with an interesting mix of students. This is a unique opportunity to build your brand towards a very senior and targeted security audience and some of the future security professionals. VSec has 250 members as of June 2021. This will likely increase further in 2021 since we will start to experiment with facilitating streaming event towards a larger audience etc. With this sponsorship you have the chance to be part of something unique, right from the very beginning. Going forward, as a founding sponsor, you will have an advantage towards others who weren’t there from the beginning.
