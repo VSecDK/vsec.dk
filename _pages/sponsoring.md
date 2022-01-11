@@ -1,3 +1,13 @@
+---
+permalink: /sponsor/
+title: "Sponsoring VSec"
+toc: true
+
+sidebar:
+  title: "Post Archive"
+  nav: sidebar-posts
+---
+
 # Sponsor information
 
 VSec is a thriving newly founded (September 2020) information security community that are trying to unify the different local fragmented community groups on a shared communication (Discord) and code contribution (GitHub) platform.
