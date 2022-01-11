@@ -13,4 +13,5 @@ The following is a set of guidelines for contributing by either sponsoring, post
 
 # Valuable Community Contributors
 
-- Your name or company?
+## Dominykas Vaitkus  
+Thanks you for creating the intro videos for the [David & Friends](https://vsec.dk/vsec-presents-david-and-friends/) CTI series on VSec/YouTube.  
