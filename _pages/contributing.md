@@ -1,7 +1,7 @@
 ---
 permalink: /contributing/
 title: "Contributing to VSec"
-toc: true
+toc: false
 
 sidebar:
   nav: sidebar-contributing
