@@ -223,7 +223,7 @@ Assistant System Administrator @ Københavns Universitet - University of Copenha
 [https://www.linkedin.com/in/jianu-petrut/](https://www.linkedin.com/in/jianu-petrut/)  
 
 ## Thomas Ljungberg Kristensen (tlkristensen)  
-IT Security Architect @ Norlys  
+Security Advisor @ WelcomeSecurity and OWASP co-chapter lead Aarhus  
 [https://www.linkedin.com/in/thomasljungbergkristensen](https://www.linkedin.com/in/thomasljungbergkristensen)  
 
 ## Nick Jensen (Nick)  
