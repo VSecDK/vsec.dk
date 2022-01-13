@@ -17,4 +17,7 @@ The following is a set of guidelines for contributing by either sponsoring, post
 For creating the intro videos for the [David & Friends](https://vsec.dk/vsec-presents-david-and-friends/) CTI series on VSec/YouTube.  
 
 ## Kim Schulz
-For supporting/boosting the VSec Discord server.
+For supporting/boosting the VSec Discord server since 2020.
+
+## Freddy M
+For supporting/boosting the VSec Discord server since 2020.
