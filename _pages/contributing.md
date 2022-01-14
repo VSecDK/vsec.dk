@@ -27,3 +27,6 @@ For supporting/boosting the VSec Discord server since 2020.
 
 **[Anders Høgedal Kortsen](https://vsec.dk/members/#anders-h%C3%B8gedal-kortsen-anderskortsen)**  
 For supporting/boosting the VSec Discord server since 2021.  
+
+# Speakers contributing to VSec events
+* [David Clayton](https://twitter.com/DCSecuritydk)  
