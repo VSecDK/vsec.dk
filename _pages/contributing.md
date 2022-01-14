@@ -13,11 +13,14 @@ The following is a set of guidelines for contributing by either sponsoring, post
 
 # Valuable Community Contributors
 
-## Dominykas Vaitkus  
+**[Dominykas Vaitkus](https://vsec.dk/members/#dominykas-vaitkus-dominykas)**  
 For creating the intro videos for the [David & Friends](https://vsec.dk/vsec-presents-david-and-friends/) CTI series on VSec/YouTube.  
 
-## Kim Schulz
-For supporting/boosting the VSec Discord server since 2020.
+**[Kim Schulz](https://vsec.dk/members/#kim-schulz-kimschulz)**  
+For supporting/boosting the VSec Discord server since 2020.  
 
-## Freddy M
-For supporting/boosting the VSec Discord server since 2020.
+**[Freddy Murre](https://vsec.dk/members/#freddy-murre-furdy)**  
+For supporting/boosting the VSec Discord server since 2020.  
+
+**[Anders Høgedal Kortsen](https://vsec.dk/members/#anders-h%C3%B8gedal-kortsen-anderskortsen)**  
+For supporting/boosting the VSec Discord server since 2021.  
