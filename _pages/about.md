@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About VSec"
-toc: true
+toc: false
 
 sidebar:
   nav: sidebar-members
