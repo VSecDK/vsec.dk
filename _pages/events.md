@@ -19,8 +19,8 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
-| 17/2 2022 @ 17.00 - 20.00 | Get-together: An Evening of War Stories | War Storie | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/283634757/) | | 
 | 16/3 2022 @ 18:00 - 22:00 | VSec & CitySec Aarhus Meetup at Hantwerk | Security Meetup | VSec & CitySec Aarhus | [Link](https://www.eventbrite.dk/e/citysec-2022-1-tickets-212470965377) | N/A |  
+| 17/2 2022 @ 17.00 - 20.00 | Get-together: An Evening of War Stories | War Storie | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/283634757/) | | 
 | 11/12 2021 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 28/11 2021 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
 | 23/11 2021 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - November | Security / Crypto | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/281947916/) | N/A | 
