@@ -73,8 +73,8 @@ sidebar-about:
   - title: "About"
     children:
       - title: "Verified Members"
-        url: /members/
+        url: /about/members/
       - title: "Moderators"
-        url: /moderators/
+        url: /about/moderators/
       - title: "Infrastructure"
         url: /about/infrastructure/
