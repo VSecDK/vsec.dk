@@ -4,7 +4,7 @@ title: "VSec Members"
 toc: false
 
 sidebar:
-  nav: sidebar-members
+  nav: sidebar-about
 ---
 
 Want to become verified and get access to the closed discord channels?
