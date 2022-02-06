@@ -1,5 +1,5 @@
 ---
-permalink: /moderators/
+permalink: /about/moderators/
 title: "VSec Moderators"
 toc: false
 
