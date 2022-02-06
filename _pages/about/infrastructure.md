@@ -1,5 +1,5 @@
 ---
-permalink: /about/infrastructure
+permalink: /about/infrastructure/
 title: "About VSec Infrastructure"
 toc: false
 
