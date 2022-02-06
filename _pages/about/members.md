@@ -1,5 +1,5 @@
 ---
-permalink: /members/
+permalink: /about/members/
 title: "VSec Members"
 toc: false
 
