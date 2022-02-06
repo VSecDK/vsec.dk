@@ -69,10 +69,12 @@ sidebar-events:
       - title: "Streaming Guide"
         url: /streaming-guide/
 
-sidebar-members:
-  - title: "Members"
+sidebar-about:
+  - title: "About"
     children:
       - title: "Verified Members"
         url: /members/
       - title: "Moderators"
         url: /moderators/
+  - title: "Infrastructure"
+    url: /about/infrastructure
