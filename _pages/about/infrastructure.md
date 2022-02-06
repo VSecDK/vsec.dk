@@ -14,11 +14,11 @@ The website is built with GitHub Pages that enables everybody to contribute dire
 GithHub Pages is built with static pages using the [Jekyll](https://jekyllrb.com/) static site generator and the “Minimal Mistakes” Jekyll theme made by [Michael Rose](https://mademistakes.com/).
 
 ## CDN
-By using a static site generator and Cloudflare as a CDN, resources used to deliver the VSec website should be as [small as possible](https://blog.cloudflare.com/understand-and-reduce-your-carbon-impact-with-cloudflare/
-) while still having a security focus.  
+By using a static site generator and Cloudflare as a CDN, resources used to deliver the VSec website should be as [limited as possible](https://blog.cloudflare.com/understand-and-reduce-your-carbon-impact-with-cloudflare/
+) while still enabling a security focus.  
 
 ## Security
-To enable proper web security, Cloudflare is used as a CDN to make it possible to enable DNSSEC, optimize allowed TLS versions, set HSTS and make “transforms” to the [http response headers](https://blog.cloudflare.com/transform-http-response-headers/) so it is possible to enforce web security headers like Content Security Policie (CSP) etc.
+To enable proper web security in conjunction with GitHub Pages, Cloudflare is used as a CDN to make it possible to enable DNSSEC, optimize allowed TLS versions, set HSTS and make “transforms” to the [http response headers](https://blog.cloudflare.com/transform-http-response-headers/) so it is possible to enforce web security headers like Content Security Policie (CSP) etc.
 
 ## Project Management
 GitHub also provides good project management tools should that be necessary in the future when [planning](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects) events.
