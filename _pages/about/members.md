@@ -458,7 +458,7 @@ Senior Security Consultant @ VENZO
 [https://www.linkedin.com/in/andershoegedalkortsen/](https://www.linkedin.com/in/andershoegedalkortsen/)   
 [https://twitter.com/anderskortsen](https://twitter.com/anderskortsen)   
 
-## Karsten Laursen (Karsten Laursen)
+## Karsten Laursen (Karsten Laursen)  
 Chefkonsulent for operationel sikkerhed @ Region Syddanmark    
 [https://www.linkedin.com/in/karsten-laursen-1815a7a2/](https://www.linkedin.com/in/karsten-laursen-1815a7a2/)   
 [https://twitter.com/KarstenLaursen](https://twitter.com/KarstenLaursen)   
