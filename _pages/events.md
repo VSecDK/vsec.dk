@@ -12,8 +12,9 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 ## Event Guidelines
 
 - Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
-- Only non-profit events are allowed.
+- Only non-profit/charity events are allowed.
 - Only use royalty free music and graphics that are not under copyright if the event are to be streamed by VSec.
+- Vendor events/summits etc. are not allowed without prior permission from the community board. 
 
 # Event Calendar
 
