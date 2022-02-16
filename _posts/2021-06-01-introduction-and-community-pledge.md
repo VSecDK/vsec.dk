@@ -19,7 +19,7 @@ VSec is foremost an infosec-community by the community. We aim to contribute to 
   - Information Security related community blog, for both experienced professionals and students in the infosec field
   - [Event calendar](https://vsec.dk/events/) making it possible to get an overview of all non-profit danish information security events
   - Overview over Danish infosec communities
-  - Lists of [verified community members](https://vsec.dk/members/) and [moderators](https://vsec.dk/moderators/)
+  - Lists of [verified community members](https://vsec.dk/about/members/) and [moderators](https://vsec.dk/about/moderators/)
 
 # Community Pledge
 We the VSec community pledge to aim to be a community for the community by uniting security interested people while respecting that all humans are equal. Members in the VSec community are therefor expected to act accordingly to the [Code of Conduct](https://vsec.dk/coc/) to make sure that everybody feels included and welcome in our community. 
