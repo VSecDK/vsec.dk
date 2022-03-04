@@ -462,3 +462,7 @@ Senior Security Consultant @ VENZO
 Chefkonsulent for operationel sikkerhed @ Region Syddanmark    
 [https://www.linkedin.com/in/karsten-laursen-1815a7a2/](https://www.linkedin.com/in/karsten-laursen-1815a7a2/)   
 [https://twitter.com/KarstenLaursen](https://twitter.com/KarstenLaursen)   
+
+## Rasmus Lau Petersen (læuw)  
+Information security incident manager @ Tryg  
+[https://www.linkedin.com/in/rasmuslau/](https://www.linkedin.com/in/rasmuslau/)   
