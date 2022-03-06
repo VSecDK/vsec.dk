@@ -466,3 +466,7 @@ Chefkonsulent for operationel sikkerhed @ Region Syddanmark
 ## Rasmus Lau Petersen (læuw)  
 Information security incident manager @ Tryg  
 [https://www.linkedin.com/in/rasmuslau/](https://www.linkedin.com/in/rasmuslau/)   
+
+## Mogens Hede Villumsen (Gingermoose)  
+Cloud Security ConsultantCloud Security Consultant @ Bankdata  
+[https://www.linkedin.com/in/anonymoose/](https://www.linkedin.com/in/anonymoose/)   
