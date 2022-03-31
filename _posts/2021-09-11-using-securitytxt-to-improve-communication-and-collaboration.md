@@ -46,17 +46,28 @@ You should also take a look at [policymaker at disclose.io](https://policymaker.
 
 ## Danish Security.txt hall of fame 
 
-Disclaimer: the list is compiled from a scan on the 1st of September 2021, please feel free to do a pull request to this post/article to update the list.  
+Disclaimer: The list is compiled from a scan on the 1st of April 2022, please feel free to do a pull request to this post/article to update the list.  
 
-[TV2](https://tv2.dk/.well-known/security.txt)  
-[Norlys](https://norlys.dk/.well-known/security.txt)  
-[EnergiCERT](https://energicert.dk/.well-known/security.txt)  
-[Jyske Bank](https://jyskebank.dk/.well-known/security.txt)  
-[Tryg](https://tryg.dk/.well-known/security.txt)  
+[Aalborg Data](https://aalborgdata.dk/.well-known/security.txt)  
+[Aleris Hamlet](https://aleris-hamlet.dk/.well-known/security.txt) (vendor)  
+[Alexandra Instituttet](https://alexandra.dk/.well-known/security.txt)  
+[Av-Cables.dk](https://www.av-cables.dk/.well-known/security.txt)  
+[Benns Rejser](https://benns.dk/.well-known/security.txt)  
+[Cykelpartner.dk](https://cykelpartner.dk/.well-known/security.txt) (vendor)  
 [Danske Spil](https://danskespil.dk/.well-known/security.txt)  
+[DBA](https://www.dba.dk/.well-known/security.txt)  
+[DSB](https://www.dsb.dk/.well-known/security.txt)  
+[EnergiCERT](https://energicert.dk/.well-known/security.txt)  
+[Grepmasters](https://grepmasters.com/.well-known/security.txt)  
+[itm8](https://www.itm8.com/.well-known/security.txt) / [IT Relation](https://www.itrelation.dk/.well-known/security.txt)  
+[Jyske Bank](https://jyskebank.dk/.well-known/security.txt)  
+[Kontor Syd](https:///www.kontorsyd.dk/.well-known/security.txt) (vendor)  
+[Norlys](https://norlys.dk/.well-known/security.txt) / [Stofa](https://stofa.dk/.well-known/security.txt)  
+[NORU](https://noru.dk/.well-known/security.txt) (vendor)   
+[Tryg](https://tryg.dk/.well-known/security.txt)  
 [VSec](https://vsec.dk/.well-known/security.txt)  
 [William Dam](https://www.williamdam.dk/security.txt)  
-[Benns Rejser](https://benns.dk/.well-known/security.txt)  
+
 
 ## What can we do as a community?  
 
