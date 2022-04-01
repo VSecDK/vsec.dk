@@ -20,6 +20,11 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
+| 30/8 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - August | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652940/) | N/A | 
+| 21/6 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - June | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284461739/) | N/A | 
+| 24/5 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - May | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284648320/) | N/A | 
+| 26/4 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - April | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652935/) | N/A | 
+| 29/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting March - Take 2 | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652928/) | N/A | 
 | 16/3 2022 @ 18:00 - 22:00 | VSec & CitySec Aarhus Meetup at Hantwerk | Security Meetup | VSec & CitySec Aarhus | [Link](https://www.eventbrite.dk/e/citysec-2022-1-tickets-212470965377) | N/A |  
 | 1/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - March | Security / Crypto | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652907/) | N/A | 
 | 17/2 2022 @ 17.00 - 20.00 | Get-together: An Evening of War Stories | War Stories | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/283634757/) | | 
