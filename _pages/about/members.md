@@ -470,3 +470,9 @@ Information security incident manager @ Tryg
 ## Mogens Hede Villumsen (Gingermoose)  
 Cloud Security ConsultantCloud Security Consultant @ Bankdata  
 [https://www.linkedin.com/in/anonymoose/](https://www.linkedin.com/in/anonymoose/)   
+
+## Jonas Højer  (juba)  
+Linux Systems Engineer Trainee @ team.blue   
+[https://www.linkedin.com/in/jonas-h%C3%B8jer-015695192/](https://www.linkedin.com/in/jonas-h%C3%B8jer-015695192/)   
+[https://twitter.com/jonasghojer](https://twitter.com/jonasghojer)   
+[https://jonashojer.github.io/](https://jonashojer.github.io/)  
