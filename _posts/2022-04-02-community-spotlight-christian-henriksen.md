@@ -58,5 +58,5 @@ My handle is Christian Henriksen on Discord.
 LinkedIn: [https://www.linkedin.com/in/cbhen/](https://www.linkedin.com/in/cbhen/)  
 Twitter: [https://twitter.com/Christi54456697](https://www.linkedin.com/in/cbhen/)  
 
-## Thank you for talking about the Cyber Conscripts, FDCA, yourself and in general sharing your thoughts with the community! If you should point to someone in the community that the next community spotlight should be about, who should it then be? 
+### Thank you for talking about the Cyber Conscripts, FDCA, yourself and in general sharing your thoughts with the community! If you should point to someone in the community that the next community spotlight should be about, who should it then be? 
 It would be awesome to interview @ahoffskov, as he is always involved with some cool stuff, and happily enters a discussion on the VSec Discord Server.  
