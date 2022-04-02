@@ -9,7 +9,6 @@ tags:
   - Community
 ---
 
-# VSec Community Member Spotlight - Christian Henriksen
 ***This is the first community spotlight, which is a series of articles highlighting people that take part the local Danish non-profit Infosec communities/organizations in Denmark.***
 
 ## Tell us a little about yourself, work, background and why you got interested in information security
