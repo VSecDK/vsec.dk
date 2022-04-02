@@ -18,7 +18,7 @@ By using a static site generator and Cloudflare as a CDN, resources used to deli
 ) while still enabling a [security focus](https://securityheaders.com/?q=vsec.dk&followRedirects=on).  
 
 ## Security
-To enable proper web security in conjunction with GitHub Pages, Cloudflare is used as a CDN to make it possible to enable DNSSEC, optimize allowed TLS versions, set HSTS and make “transforms” to the [http response headers](https://blog.cloudflare.com/transform-http-response-headers/) so it is possible to enforce web security headers like Content Security Policie (CSP) etc.
+To enable proper web security in conjunction with GitHub Pages, Cloudflare is used as a CDN to make it possible to enable DNSSEC, optimize allowed TLS versions, set HSTS and make “transforms” to the [http response headers](https://blog.cloudflare.com/transform-http-response-headers/) so it is possible to enforce web security headers like Content Security Policy (CSP) etc.
 
 ## Project Management
 GitHub also provides good project management tools should that be necessary in the future when [planning](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects) events.
