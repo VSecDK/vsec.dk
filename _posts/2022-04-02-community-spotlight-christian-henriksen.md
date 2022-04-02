@@ -53,7 +53,7 @@ But this might be my best advice, and that is to join a community like VSec by e
 ## How did you find VSec and how long have you been a part of the VSec community and what are your thoughts about the infosec community in Denmark in general?
 I think I got referred to the VSec community by one of my mentors, David Clayton. I have been part of the community for almost a year, and I enjoy being part of this community. 
 
-## What handle/alias can we you behind on the VSec Discord server and how to connect? 
+## What handle/alias can we find you behind on the VSec Discord server and how is it possible connect with you? 
 My handle is Christian Henriksen on Discord.  
 LinkedIn: [https://www.linkedin.com/in/cbhen/](https://www.linkedin.com/in/cbhen/)  
 Twitter: [https://twitter.com/Christi54456697](https://www.linkedin.com/in/cbhen/)  
