@@ -9,7 +9,7 @@ tags:
   - Community
 ---
 
-***This is the first community spotlight, which is a series of articles highlighting people that take part the local Danish non-profit Infosec communities/organizations in Denmark.***
+***This is the first community spotlight, which is a series of articles highlighting people that take part in the local Danish non-profit Infosec communities/organisations in Denmark.***
 
 ## Tell us a little about yourself, work, background and why you got interested in information security
 My name is Christian Henriksen, and I graduated from Aalborg University with a BSc. In Information Technology in 2020.  
