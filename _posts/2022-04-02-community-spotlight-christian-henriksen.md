@@ -18,7 +18,7 @@ After 3 years behind books, I decided to serve my conscript within the Danish mi
 I therefor applied for a job in Region Midt, which I got, and since then I have been working on, how we can better secure the Danish hospitals.  
 I actually just signed a new contract with Trifork.Security, where I will be working as Cyber Security Consultant. During my bachelor's degree, I studied a semester abroad, in San Jose California, at San Jose State University.   At the university, I had a lecture on business systems and policy, where my professor worked with IT security at the municipality in the local area. He told me how this organization's approach was to this topic, and it created seriousness and interest in me.   Likewise, I attended a lecture and workshop on IT security, where, among other things, speakers from the NSA, Lockheed Martin etc. participated in the National Cyber Security Day.
 
-![Christian Henriksen]{{ site.baseurl }}/assets/images/posts/christian-henriksen.jpg)  
+![Christian Henriksen]({{ site.baseurl }}/assets/images/posts/christian-henriksen.jpg)  
 
 ## Could you explain are bit more about being a cyber conscript and what the requirements are?
 Cyber conscription is a political initiative that will hatch approx. 30+ new digital security talents a year - some purpose is to be ambassadors for good IT security in the Danish kingdom. The conscription period is a total of 10 months, divided into two sections:
