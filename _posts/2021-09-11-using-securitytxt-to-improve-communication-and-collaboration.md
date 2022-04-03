@@ -53,6 +53,8 @@ Disclaimer: The list is compiled from a scan on the 1st of April 2022, please fe
 [Alexandra Instituttet](https://alexandra.dk/.well-known/security.txt)  
 [Av-Cables.dk](https://www.av-cables.dk/.well-known/security.txt)  
 [Benns Rejser](https://benns.dk/.well-known/security.txt)  
+[Bring](https://www.bring.dk/.well-known/security.txt)  
+[Bryggebladet](https://www.bryggebladet.dk/.well-known/security.txt)   
 [Cykelpartner.dk](https://cykelpartner.dk/.well-known/security.txt) (vendor)  
 [Danske Spil](https://danskespil.dk/.well-known/security.txt)  
 [DBA](https://www.dba.dk/.well-known/security.txt)  
@@ -66,7 +68,7 @@ Disclaimer: The list is compiled from a scan on the 1st of April 2022, please fe
 [NORU](https://noru.dk/.well-known/security.txt) (vendor)   
 [Tryg](https://tryg.dk/.well-known/security.txt)  
 [VSec](https://vsec.dk/.well-known/security.txt)  
-[William Dam](https://www.williamdam.dk/security.txt)  
+[William Dam](https://www.williamdam.dk/security.txt) 
 
 
 ## What can we do as a community?  
