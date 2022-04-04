@@ -23,6 +23,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | 30/8 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - August | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652940/) | N/A | 
 | 21/6 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - June | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284461739/) | N/A | 
 | 24/5 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - May | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284648320/) | N/A | 
+| 26/4 2022 @ 17.00 - 20.00  | A Night of Hacking Talks - Spoofs and CTFs | Security & Community | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/285064536/) | N/A
 | 26/4 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - April | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652935/) | N/A | 
 | 9/4 2022 @ 13:00 - 17:00 | Cryptoaarhus Meetup @ Fairbar | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 29/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting March - Take 2 | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652928/) | N/A | 
