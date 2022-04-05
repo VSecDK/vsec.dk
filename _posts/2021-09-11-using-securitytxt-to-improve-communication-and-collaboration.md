@@ -67,7 +67,6 @@ Disclaimer: The list is compiled from a scan on the 1st of April 2022, please fe
 [Lunar](https://lunar.app/.well-known/security.txt)  
 [Norlys](https://norlys.dk/.well-known/security.txt) / [Stofa](https://stofa.dk/.well-known/security.txt)  
 [NORU](https://noru.dk/.well-known/security.txt) (vendor)   
-[MIT](https://mit.dk/security.txt)  
 [Tryg](https://tryg.dk/.well-known/security.txt)  
 [VSec](https://vsec.dk/.well-known/security.txt)  
 [William Dam](https://www.williamdam.dk/security.txt) 
