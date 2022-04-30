@@ -402,7 +402,7 @@ Cyber Security Consultant @ Combitech
 [https://www.linkedin.com/in/caspermach/](https://www.linkedin.com/in/caspermach/)   
 
 ## Christian Henriksen (Guzzy)  
-Incident Responder @ Region Midtjylland  
+Cyber Security Consultant @ Trifork.Securty
 [https://www.linkedin.com/in/cbhen/](https://www.linkedin.com/in/cbhen/)   
 
 ## Jette Jerndal (jette)  
