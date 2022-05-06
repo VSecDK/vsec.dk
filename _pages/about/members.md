@@ -476,3 +476,8 @@ Linux Systems Engineer Trainee @ team.blue
 [https://www.linkedin.com/in/jonas-h%C3%B8jer-015695192/](https://www.linkedin.com/in/jonas-h%C3%B8jer-015695192/)   
 [https://twitter.com/jonasghojer](https://twitter.com/jonasghojer)   
 [https://jonashojer.github.io/](https://jonashojer.github.io/)  
+
+## William Ben Embarek (HestenettetDK)  
+Security Specialist @ With Secure  
+[https://www.linkedin.com/in/william-ben-embarek/](https://www.linkedin.com/in/william-ben-embarek/)   
+[https://twitter.com/willbenem](https://twitter.com/willbenem)  
