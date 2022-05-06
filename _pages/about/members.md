@@ -481,3 +481,4 @@ Linux Systems Engineer Trainee @ team.blue
 Security Specialist @ With Secure  
 [https://www.linkedin.com/in/william-ben-embarek/](https://www.linkedin.com/in/william-ben-embarek/)   
 [https://twitter.com/willbenem](https://twitter.com/willbenem)  
+[https://embar.io/](https://embar.io/)  
