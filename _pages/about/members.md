@@ -297,7 +297,7 @@ Cyber Security Consultant @ CyberPilot.io
 
 ## Dénes Olivér Óvári (od8086)   
 Detection and Response Architect @ CSIS Security Group  
-[https://www.linkedin.com/in/ovaridenes/](https://www.linkedin.com/in/ovaridenes/)   
+[https://www.linkedin.com/in/ovaridenesoliver/](https://www.linkedin.com/in/ovaridenesoliver/)   
 [https://twitter.com/0d8x86](https://twitter.com/0d8x86)   
 
 ## Babak Bandpey (Babak)   
