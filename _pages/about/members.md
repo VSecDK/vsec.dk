@@ -296,7 +296,7 @@ Cyber Security Consultant @ CyberPilot.io
 [https://www.linkedin.com/in/frederikbogeskovjohnsen/](https://www.linkedin.com/in/frederikbogeskovjohnsen/)   
 
 ## Dénes Olivér Óvári (od8086)   
-Security Software Developer and Architect @ CSIS Security Group  
+Detection and Response Architect @ CSIS Security Group  
 [https://www.linkedin.com/in/ovaridenes/](https://www.linkedin.com/in/ovaridenes/)   
 [https://twitter.com/0d8x86](https://twitter.com/0d8x86)   
 
