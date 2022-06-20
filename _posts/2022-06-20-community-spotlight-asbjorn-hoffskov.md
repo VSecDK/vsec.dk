@@ -9,7 +9,7 @@ tags:
   - Community
 ---
 
-***This is the first community spotlight, which is a series of articles highlighting people that take part in the local Danish non-profit Infosec communities/organisations in Denmark.***
+***This is the second community spotlight, which is a series of articles highlighting people that take part in the local Danish non-profit Infosec communities/organisations in Denmark.***
 
 ## Tell us a little about yourself, work/background and why you got interested in information security
 I’m a father of two, and you might say that my life peaks this year, as my age now is the same as “The answer to life, the Universe and everything” (42). I work in the public sector as an IT Security Consultant at Region Nordjylland.  So, my way into InfoSec might differ a little from most people.  
