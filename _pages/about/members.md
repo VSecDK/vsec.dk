@@ -482,3 +482,11 @@ Security Specialist @ With Secure
 [https://www.linkedin.com/in/william-ben-embarek/](https://www.linkedin.com/in/william-ben-embarek/)   
 [https://twitter.com/willbenem](https://twitter.com/willbenem)  
 [https://embar.io/](https://embar.io/)  
+
+## Tomas Kræmer (Peliqua)  
+IT-Systemtekniker / SecOps Konsulent @ Spar Nord  
+[https://www.linkedin.com/in/tomas-kr%C3%A6mer/](https://www.linkedin.com/in/tomas-kr%C3%A6mer/)  
+
+## Casper Jensen (Oksegnuen)  
+Consultant @ Trifork Security  
+[https://www.linkedin.com/in/casper-jensen-3174b8115/](https://www.linkedin.com/in/casper-jensen-3174b8115/)  
