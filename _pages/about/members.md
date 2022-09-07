@@ -490,3 +490,7 @@ IT-Systemtekniker / SecOps Konsulent @ Spar Nord
 ## Casper Jensen (Oksegnuen)  
 Consultant @ Trifork Security  
 [https://www.linkedin.com/in/casper-jensen-3174b8115/](https://www.linkedin.com/in/casper-jensen-3174b8115/)  
+
+## Avesta Fahimipour (avesta)  
+IT-Security Freelance  
+[https://www.linkedin.com/in/avesta-fahimipour/](https://www.linkedin.com/in/avesta-fahimipour/)  
