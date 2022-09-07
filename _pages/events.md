@@ -20,6 +20,8 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
+| 13/10 2022 @ 17:00 - 21:30 | Aarhus CitySec 2022 #2 | Casual Meetup | Aarhus CitySec | [Link](https://www.eventbrite.com/e/citysec-2022-2-tickets-414524252197) | N/A | 
+| 8/10 2022 @ 10:00 - 17:15 | BSides Copenhagen | Security | BSides Copenhagen | [Link](https://2022.bsideskbh.dk/) | N/A | 
 | 30/8 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - August | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652940/) | N/A | 
 | 13/8 2022 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 26/6 2022 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
