@@ -1,5 +1,5 @@
 ---
-title: "Community Article - Hunting Windows Event Logs - Avesta Fahimipour"
+title: "Community Article - Hunting Windows Event Logs"
 date: 2022-09-13
 author: Avesta Fahimipour
 categories:
@@ -9,8 +9,6 @@ tags:
   - Community
   - Article
 ---
-
-# Hunting Windows Event Logs
 
 Event logs are a great way to detect adversary activity on a windows machine and be able to tell the story of what and how it happened.  
 Unfortunately, there are many event logs and not all of them are useful. Going through these logs can be daunting and requires keen eyes.  
