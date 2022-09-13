@@ -52,7 +52,7 @@ Using 4672 and 4624 you can detect user logons with admin-level privileges.  Whe
 
 The logon event has a field called logon type, this field indicates how the logon occurred.  
 To understand the various ways you can log in to a system, use Microsoft's official documents:  
-https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types  
+[https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/reference-tools-logon-types)
 
 **Summary:**  
 4624: Logon  
