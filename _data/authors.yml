@@ -37,11 +37,11 @@ Avesta Fahimipour:
   name   : "Avesta Fahimipour"
   avatar : "/assets/images/authors/avesta.jpg"
   bio    : "Studying IT-Security"
-  location: "Denmark"
+  location: "Aarhus, Denmark"
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:TBD"
+      url: "mailto:fahimipour.avesta@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/avesta-fahimipour/"
