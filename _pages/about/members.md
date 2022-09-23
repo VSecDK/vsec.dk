@@ -383,7 +383,7 @@ Staff Engineer, Software @ Samsung Denmark Research Center
 [https://www.linkedin.com/in/kimschulz/](https://www.linkedin.com/in/kimschulz/)  
 
 ## Asbjørn Hoffskov Lund (ahoffskov)  
-IT Security Consultant @ Region Nordjylland  
+IT Security Consultant / CISO-as-a-Service @ Unitas ApS  
 [https://twitter.com/ahoffskov](https://twitter.com/ahoffskov)  
 [https://www.linkedin.com/in/ahoffskov/](https://www.linkedin.com/in/ahoffskov/)  
 
