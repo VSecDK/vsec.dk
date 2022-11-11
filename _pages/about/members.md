@@ -425,7 +425,7 @@ CyberSecurity Enthusiast & Video Producer
 ## David Jochumsen (Spiffysec)  
 Cyber Security Analyst @ JN Data  
 [https://www.linkedin.com/in/david-jochumsen/](https://www.linkedin.com/in/david-jochumsen/)  
-[https://twitter.com/spiffysec](https://twitter.com/spiffysec)  
+[https://infosec.exchange/@spiffy](https://infosec.exchange/@spiffy)
 
 ## Carl Melgaard (killergate)  
 IT-sikkerhedsspecialist @ Region Midtjylland  
