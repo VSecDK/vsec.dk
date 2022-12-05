@@ -79,7 +79,7 @@ If you login using a local account Account Logon events will be generated on the
 
 In an enterprise environment, you will have two types of authentication: NTLM and Kerberos.  
 Pass the hash (PtH) is a common technique that adversaries use which uses NTLM.  In this case, event 4776 will be seen along with 4624 type 9 or 3, 4648, and 4672.  
-If Kerberos is the only method of authentication adversaries can utilize OverPass the hash by directly sending the RC4 or AES hashes, this will generate 4768, 4769, and 4771 along with 4624, 4648, and 4672.  
+If Kerberos is the only method of authentication adversaries can utilize OverPass the hash by directly sending the RC4 or AES hashes, this will generate 4768, and 4769, along with 4624, 4648, and 4672.  
 
 **Summary:**  
 4776: The computer attempted to validate the credentials for an account  
