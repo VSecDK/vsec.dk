@@ -496,5 +496,10 @@ IT-Security Freelance
 [https://www.linkedin.com/in/avesta-fahimipour/](https://www.linkedin.com/in/avesta-fahimipour/)  
 
 ## Mikkel Korsgaard Clement (Quantum)  
-IT-sikkerhedschef, JP/Politikkens Hus   
+IT-sikkerhedschef @ JP/Politikkens Hus   
 [https://www.linkedin.com/in/mikkelkclement/](https://www.linkedin.com/in/mikkelkclement/)  
+
+## Jakob Nordenlund (N0rd)  
+Senior Cyber Security Consultant @ Truesec  
+[https://www.linkedin.com/in/jakob-nordenlund-4955974/](https://www.linkedin.com/in/jakob-nordenlund-4955974/)   
+[https://twitter.com/nordenlund](https://twitter.com/nordenlund)  
