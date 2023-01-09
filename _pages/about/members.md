@@ -503,3 +503,7 @@ IT-sikkerhedschef @ JP/Politikkens Hus
 Senior Cyber Security Consultant @ Truesec  
 [https://www.linkedin.com/in/jakob-nordenlund-4955974/](https://www.linkedin.com/in/jakob-nordenlund-4955974/)   
 [https://twitter.com/nordenlund](https://twitter.com/nordenlund)  
+
+## Jesper Have (jhave)  
+CEO @ Zerpex ApS  
+[https://twitter.com/jesperhave](https://twitter.com/jesperhave)  
