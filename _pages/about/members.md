@@ -507,3 +507,7 @@ Senior Cyber Security Consultant @ Truesec
 ## Jesper Have (jhave)  
 CEO @ Zerpex ApS  
 [https://twitter.com/jesperhave](https://twitter.com/jesperhave)  
+
+## Sebastian Birk (BirkeP)  
+IT-Sikkerhedsmedarbejder @ Dagrofa ApS  
+[https://www.linkedin.com/in/sebastian-b-a5177999/](https://www.linkedin.com/in/sebastian-b-a5177999/)  
