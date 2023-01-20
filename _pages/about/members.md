@@ -81,8 +81,8 @@ IT Security Student
 [https://www.linkedin.com/in/christopher-buch-61709a8a/](https://www.linkedin.com/in/christopher-buch-61709a8a/)  
 [https://twitter.com/cerb20](https://twitter.com/cerb20)  
 
-## Lars Würtz Hammer (lwhdk)
-IT Specialist @ Jyske Bank A/S  
+## Lars Würtz Hammer (lwhdk)  
+M365 - Specialist @ JN Data A/S  
 [https://www.linkedin.com/in/lwhdk](https://www.linkedin.com/in/lwhdk)  
 [https://twitter.com/larswhammer](https://twitter.com/larswhammer)  
 
