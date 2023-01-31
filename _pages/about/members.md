@@ -516,3 +516,7 @@ IT-Sikkerhedsmedarbejder @ Dagrofa ApS
 IT-Sikkerhedskonsulent @ Region Syddanmark  
 [https://twitter.com/ChanthoshS](https://twitter.com/ChanthoshS)  
 [https://www.linkedin.com/in/chanthosh-sivanandam/](https://www.linkedin.com/in/chanthosh-sivanandam/)  
+
+## Gustav Ask Larsen (GAL)  
+Cyberanalytiker @ Sundhedsdatastyrelsen  
+[https://www.linkedin.com/in/gustav-ask-l-17a27013a/](https://www.linkedin.com/in/gustav-ask-l-17a27013a/)  
