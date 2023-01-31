@@ -511,3 +511,8 @@ CEO @ Zerpex ApS
 ## Sebastian Birk (BirkeP)  
 IT-Sikkerhedsmedarbejder @ Dagrofa ApS  
 [https://www.linkedin.com/in/sebastian-b-a5177999/](https://www.linkedin.com/in/sebastian-b-a5177999/)  
+
+## Chanthosh Sivanandam (Chanthosh)  
+IT-Sikkerhedskonsulent @ Region Syddanmark  
+[https://twitter.com/ChanthoshS](https://twitter.com/ChanthoshS)  
+[https://www.linkedin.com/in/chanthosh-sivanandam/](https://www.linkedin.com/in/chanthosh-sivanandam/)  
