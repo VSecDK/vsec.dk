@@ -22,7 +22,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 |------|-------|-------|-----------|------------|-----------------|
 | 8/11 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #4 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 17/8 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #3 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
-| 23/4 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
+| 23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 15/3 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #1 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2023-tickets-529229488647) | N/A |  
 | 13/10 2022 @ 17:00 - 21:30 | Aarhus CitySec 2022 #2 | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2022-2-tickets-414524252197) | N/A | 
 | 8/10 2022 @ 10:00 - 17:15 | BSides Copenhagen | Security | BSides Copenhagen | [Link](https://2022.bsideskbh.dk/) | N/A | 
