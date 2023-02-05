@@ -25,7 +25,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | 23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 15/3 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #1 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2023-tickets-529229488647) | N/A |  
 | 13/10 2022 @ 17:00 - 21:30 | Aarhus CitySec 2022 #2 | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2022-2-tickets-414524252197) | N/A | 
-| 8/10 2022 @ 10:00 - 17:15 | BSides Copenhagen | Security | BSides Copenhagen | [Link](https://2022.bsideskbh.dk/) | N/A | 
+| 8/10 2022 @ 10:00 - 17:15 | BSides Copenhagen | Security | BSides Copenhagen | [Link](https://2022.bsideskbh.dk/) | [Day 1](https://vimeo.com/600732226), [Day 2](https://vimeo.com/600742332) | 
 | 30/8 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - August | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652940/) | N/A | 
 | 13/8 2022 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 26/6 2022 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
@@ -47,7 +47,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | 9/10 2021 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 5/10 2021 @ 17:00 - 19:00 | Improhound Workshop + Talk | Security | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/280774265/) | [Link](https://www.youtube.com/watch?v=kl1ToubX-yk) |  
 | 26/9 2021 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
-| 17/9 2021 to 18/9 2021 | BSides København 2021 | Community Conference | BSides København | [Link](https://bsideskbh.dk/)|[Day1](https://vimeo.com/600732226), [Day2](https://vimeo.com/600742332)|  
+| 17/9 2021 to 18/9 2021 | BSides København 2021 | Community Conference | BSides København | [Link](https://bsideskbh.dk/)|[Day 1](https://vimeo.com/600732226), [Day 2](https://vimeo.com/600742332)|  
 | 11/9 2021 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |    
 | 2/9 2021 @ 19.30 - 21.00 | VSec presents: David and friends "The importance of collecting your own data (Obsidian workshop)" | CTI/IR | VSec | [Link](https://vsec.dk/vsec-presents-david-and-friends/)| [Video](https://www.youtube.com/watch?v=Sg4EHythS34) |   
 | 1/9 to 5/9 2021 | Sommerhack | Makers/Hackers | OSAA / HAL9K | [Link](https://sommerhack.dk/)| |  
