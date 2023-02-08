@@ -520,3 +520,7 @@ IT-Sikkerhedskonsulent @ Region Syddanmark
 ## Gustav Ask Larsen (GAL)  
 Cyberanalytiker @ Sundhedsdatastyrelsen  
 [https://www.linkedin.com/in/gustav-ask-l-17a27013a/](https://www.linkedin.com/in/gustav-ask-l-17a27013a/)  
+
+## Martin Nygaard Christensen (Nygaard)  
+IT-sikkerhedskonsulent @ Region Syddanmark  
+[https://www.linkedin.com/in/martin-nygaard-christensen-a9325087/](https://www.linkedin.com/in/martin-nygaard-christensen-a9325087/)  
