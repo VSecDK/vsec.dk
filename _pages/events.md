@@ -22,7 +22,8 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 |------|-------|-------|-----------|------------|-----------------|
 | 8/11 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #4 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 17/8 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #3 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
-| 23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
+| 2/8 - 9/8 2023 | Bornhack 2023 | Makers/Hackers Camp | Bornhack | [Link](https://bornhack.dk/bornhack-2023/)| N/A |     
+23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 27/3 2023 @ 19:00 - 21:00 | OWASP Aarhus Chapter Meeting - March (Virtual) | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772567/) | N/A | 
 | 15/3 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #1 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2023-tickets-529229488647) | N/A |  
 | 28/2 2023 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - February | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772226/) | N/A | 
@@ -34,6 +35,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | 8/10 2022 @ 10:00 - 17:15 | BSides Copenhagen 2022 | Security | [BSides Copenhagen](https://bsideskbh.dk/) | [Link](https://2022.bsideskbh.dk/) | [Day 1](https://vimeo.com/600732226), [Day 2](https://vimeo.com/600742332) | 
 | 30/8 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - August | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652940/) | N/A | 
 | 13/8 2022 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
+| 3/8 - 10/8 2022 | Bornhack 2022 | Makers/Hackers Camp | Bornhack | [Link](https://bornhack.dk/bornhack-2022/)| N/A |     
 | 26/6 2022 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
 | 21/6 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - June | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/)| [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284461739/) | N/A | 
 | 24/5 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - May | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284648320/) | N/A | 
