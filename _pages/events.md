@@ -23,27 +23,33 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | 8/11 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #4 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 17/8 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #3 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
+| 27/3 2023 @ 19:00 - 21:00 | OWASP Aarhus Chapter Meeting - March (Virtual) | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772567/) | N/A | 
 | 15/3 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #1 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2023-tickets-529229488647) | N/A |  
+| 28/2 2023 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - February | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772226/) | N/A | 
+| 31/1 2023 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - January | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/289490322/) | N/A | 
+| 1/12 2022 @ 19:00 - 21:00 | OWASP Aarhus Chapter Meeting - November/December (Virtual) | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772470/) | N/A | 
+| 9/11 2022 @ 17:00 - 20:00 | A night of collaboration, secure coding and - implementation | Security | [OWASP Copenhagen](https://www.meetup.com/owasp-copenhagen-chapter/) | [Link](https://www.meetup.com/owasp-copenhagen-chapter/events/289468129/) | N/A | 
+| 25/10 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - October | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772199/) | N/A | 
 | 13/10 2022 @ 17:00 - 21:30 | Aarhus CitySec 2022 #2 | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [Link](https://www.eventbrite.com/e/citysec-2022-2-tickets-414524252197) | N/A | 
 | 8/10 2022 @ 10:00 - 17:15 | BSides Copenhagen 2022 | Security | [BSides Copenhagen](https://bsideskbh.dk/) | [Link](https://2022.bsideskbh.dk/) | [Day 1](https://vimeo.com/600732226), [Day 2](https://vimeo.com/600742332) | 
 | 30/8 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - August | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652940/) | N/A | 
 | 13/8 2022 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 26/6 2022 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
-| 21/6 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - June | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284461739/) | N/A | 
-| 24/5 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - May | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284648320/) | N/A | 
+| 21/6 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - June | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/)| [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284461739/) | N/A | 
+| 24/5 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - May | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/284648320/) | N/A | 
 | 26/4 2022 @ 17.00 - 20.00  | A Night of Hacking Talks - Spoofs and CTFs | Security & Community | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/285064536/) | N/A
-| 26/4 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - April | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652935/) | N/A | 
+| 26/4 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - April | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652935/) | N/A | 
 | 9/4 2022 @ 13:00 - 17:00 | Cryptoaarhus Meetup @ Fairbar | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
-| 29/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting March - Take 2 | Security | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652928/) | N/A | 
+| 29/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting March - Take 2 | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652928/) | N/A | 
 | 16/3 2022 @ 18:00 - 22:00 | VSec & CitySec Aarhus Meetup at Hantwerk | Security Meetup | VSec & CitySec Aarhus | [Link](https://www.eventbrite.dk/e/citysec-2022-1-tickets-212470965377) | N/A |  
-| 1/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - March | Security / Crypto | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652907/) | N/A | 
+| 1/3 2022 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - March | Security / Crypto | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/)| [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/282652907/) | N/A | 
 | 17/2 2022 @ 17.00 - 20.00 | Get-together: An Evening of War Stories | War Stories | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/283634757/) | | 
 | 11/12 2021 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 28/11 2021 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
-| 23/11 2021 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - November | Security / Crypto | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/281947916/) | N/A | 
+| 23/11 2021 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - November | Security / Crypto | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/281947916/) | N/A | 
 | 13/11 2021 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 31/10 2021 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
-| 16/10 2021 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - October | Security / Crypto | OWASP Aarhus | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/281291184/) | N/A | 
+| 16/10 2021 @ 19:00 - 21:30 | OWASP Aarhus Chapter Meeting - October | Security / Crypto | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/OWASP-Aarhus-Chapter/events/281291184/) | N/A | 
 | 9/10 2021 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | Cryptoaarhus | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 5/10 2021 @ 17:00 - 19:00 | Improhound Workshop + Talk | Security | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/280774265/) | [Link](https://www.youtube.com/watch?v=kl1ToubX-yk) |  
 | 26/9 2021 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | Cryptohagen | [Link](https://cryptohagen.dk/) | N/A |  
