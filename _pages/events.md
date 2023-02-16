@@ -21,9 +21,10 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 | Date | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
 | 8/11 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #4 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
+| 23/8 - 27/8 2023 | Summerhack 2023 | Makers/Hackers Camp | [Summerhack]((https://sommerhack.dk/)) | [Link](https://sommerhack.dk/)| N/A |     
 | 17/8 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #3 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 2/8 - 9/8 2023 | Bornhack 2023 | Makers/Hackers Camp | [Bornhack]((https://bornhack.dk/)) | [Link](https://bornhack.dk/bornhack-2023/)| N/A |     
-23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
+| 23/5 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #2 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 8/4 2023 @ 13:00 - 17:00 | Cryptoaarhus Meetup | Crypto/Privacy | [Cryptoaarhus](https://cryptoaarhus.dk/) | [Link](https://cryptoaarhus.dk/) | N/A |  
 | 27/3 2023 @ 19:00 - 21:00 | OWASP Aarhus Chapter Meeting - March (Virtual) | Security | [OWASP Aarhus](https://www.meetup.com/owasp-aarhus-chapter/) | [Link](https://www.meetup.com/owasp-aarhus-chapter/events/288772567/) | N/A | 
 | 26/3 2023 @ 13:00 - 17:00 | Cryptohagen Meetup | Crypto/Privacy | [Cryptohagen](https://cryptohagen.dk/)  | [Link](https://cryptohagen.dk/) | N/A |  
