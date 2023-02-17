@@ -2,6 +2,7 @@
 permalink: /events/
 title: "Community Events"
 toc: false
+classes: wide
 
 sidebar:
   nav: sidebar-events
