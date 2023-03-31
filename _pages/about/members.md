@@ -422,11 +422,6 @@ CyberSecurity Enthusiast & Video Producer
 [https://www.linkedin.com/in/dominykasvaitkus/](https://www.linkedin.com/in/dominykasvaitkus/)  
 [https://dominyko.com/](https://dominyko.com/)  
 
-## David Jochumsen (Spiffysec)  
-Cyber Security Analyst @ JN Data  
-[https://www.linkedin.com/in/david-jochumsen/](https://www.linkedin.com/in/david-jochumsen/)  
-[https://infosec.exchange/@spiffy](https://infosec.exchange/@spiffy)
-
 ## Carl Melgaard (killergate)  
 IT-sikkerhedsspecialist @ Region Midtjylland  
 [https://www.linkedin.com/in/melgaard/](https://www.linkedin.com/in/melgaard/)  
