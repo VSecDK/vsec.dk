@@ -21,6 +21,7 @@ Feel free to send a message or mail to one of the VSec moderators to get your no
 
 | Date <img width="1200" /> | Event | Topic | Community | Event Link | Event Recording |
 |------|-------|-------|-----------|------------|-----------------|
+| 11/11 2023 | BSides København 2023 | InfoSec Conference | [BSides København](https://bsideskbh.dk/) | TBA | TBA | 
 | 8/11 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #4 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
 | 23/8 - 27/8 2023 | Summerhack 2023 | Makers/Hackers Camp | [Summerhack]((https://sommerhack.dk/)) | [Link](https://sommerhack.dk/)| N/A |     
 | 17/8 2023 @ 17:00 - 21:30 | Aarhus CitySec 2023 #3 @ Aarhus Street Food | Casual Meetup | [Aarhus CitySec](https://www.linkedin.com/groups/12139866/) | [TBA On EventBrite Page](https://www.eventbrite.com/o/aarhus-citysec-18713201840) | N/A | 
