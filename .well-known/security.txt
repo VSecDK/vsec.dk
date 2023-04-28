@@ -1,5 +1,5 @@
-Contact: mailto:info@vsec.dk
-Expires: 2022-12-31T23:01:00.000Z
+Contact: info@vsec.dk
+Expires: 2023-12-31
 Encryption: Shared on request
 Acknowledgments: https://vsec.dk/contributing/#valuable-community-contributors
 Preferred-Languages: da, en
