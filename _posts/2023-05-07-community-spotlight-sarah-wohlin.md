@@ -9,7 +9,7 @@ tags:
   - Community
 ---
 
-***This is the second community spotlight, which is a series of articles highlighting people that take part in the local Danish non-profit Infosec communities/organisations in Denmark.***
+***This is the 3rd community spotlight, which is a series of articles highlighting people that take part in the local Danish non-profit Infosec communities/organisations in Denmark.***
 
 ## Tell us a little about yourself, work/background and why you got interested in information security
 At the age of 24, my interest in technology started when I first played Mario Kart on my (atrociously pink) Nintendo DS almost 15 years ago. Since then, I have been interested in technology, and in the past few years, cyber security has been a game changer for me. While my interest in technology initially started with gaming, I have found myself spending more and more time on cyber security-related activities, like CTFs, TryHackMe or HackTheBox, and less time on video games. 
