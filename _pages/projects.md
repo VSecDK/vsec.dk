@@ -19,7 +19,7 @@ Each project will need an initial approval from the VSec Community Board to be i
 
 ## Issues and Pull Requests
 
-- If you're not sure about adding something, [open an issue](https://github.com/Viking-Security/website/issues/new) to discuss it.
+- If you're not sure about adding something, [open an issue](https://github.com/VSecDK/vsec.dk/issues/new) to discuss it.
 - Feel free to open a Pull Request early so that a discussion can be had as changes are developed.
 
 ## Community project guidelines
