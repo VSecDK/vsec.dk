@@ -519,3 +519,7 @@ Cyberanalytiker @ Sundhedsdatastyrelsen
 ## Martin Nygaard Christensen (Nygaard)  
 IT-sikkerhedskonsulent @ Region Syddanmark  
 [https://www.linkedin.com/in/martin-nygaard-christensen-a9325087/](https://www.linkedin.com/in/martin-nygaard-christensen-a9325087/)  
+
+## Marc Munk (marmun)  
+Cybser security specialist
+[https://www.linkedin.com/in/marc-munk-1889731/](https://www.linkedin.com/in/marc-munk-1889731/)  
