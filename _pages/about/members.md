@@ -77,7 +77,7 @@ Security Consultant @ CSIS Security Group
 [https://twitter.com/fritzboger](https://twitter.com/fritzboger)  
 
 ## Christopher Buch (Christopher)
-IT Security Student  
+IT-Sikkerhedskonsulent @ Region Syddanmark 
 [https://www.linkedin.com/in/christopher-buch-61709a8a/](https://www.linkedin.com/in/christopher-buch-61709a8a/)  
 [https://twitter.com/cerb20](https://twitter.com/cerb20)  
 
@@ -168,7 +168,7 @@ Sikkerhedsanalytiker @ NetDesign
 [https://www.linkedin.com/in/pelle-jensen-b170a850/](https://www.linkedin.com/in/pelle-jensen-b170a850/)  
 
 ## Rasmus Høg (Rasmus Høg)
-Information Security Consultant @ Region Midtjylland  
+vulnerability engineer @ TDC  
 [https://www.linkedin.com/in/rhoegsberg/](https://www.linkedin.com/in/rhoegsberg/)  
 
 ## Hamid Jabbari Ilkhechi (Hamid Jabbari)
@@ -193,7 +193,7 @@ Director @ FlexiNetwork
 [https://twitter.com/FixiDK](https://twitter.com/FixiDK)  
 
 ## Lasse Moisen (Lasse M. Moisen)  
-IT Security Student  
+Security Advisor @ Improsec
 [https://www.linkedin.com/in/lasse-moisen/](https://www.linkedin.com/in/lasse-moisen/)  
 [https://twitter.com/LasseMoisen](https://twitter.com/LasseMoisen)  
 
@@ -423,7 +423,7 @@ CyberSecurity Enthusiast & Video Producer
 [https://dominyko.com/](https://dominyko.com/)  
 
 ## Carl Melgaard (killergate)  
-IT-sikkerhedsspecialist @ Region Midtjylland  
+Senior IT Security Administrator @ Kamstrup  
 [https://www.linkedin.com/in/melgaard/](https://www.linkedin.com/in/melgaard/)  
 
 ## Jesper Stark  (Jesper Stark)  
@@ -454,7 +454,7 @@ Senior Security Consultant @ VENZO
 [https://twitter.com/anderskortsen](https://twitter.com/anderskortsen)   
 
 ## Karsten Laursen (Karsten Laursen)  
-Chefkonsulent for operationel sikkerhed @ Region Syddanmark    
+Konsulent for infrastruktur og IT-sikkerhed @ Kaastrup|Andersen A/S 
 [https://www.linkedin.com/in/karsten-laursen-1815a7a2/](https://www.linkedin.com/in/karsten-laursen-1815a7a2/)   
 [https://twitter.com/KarstenLaursen](https://twitter.com/KarstenLaursen)   
 
