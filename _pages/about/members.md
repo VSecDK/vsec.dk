@@ -59,7 +59,7 @@ CEO @ Value Security
 [https://www.linkedin.com/in/martingohs/](https://www.linkedin.com/in/martingohs/)  
 
 ## Dennis Lund Christiansen (DennisLund)
-Consultant - risk advisory @ Deloitte Danmark  
+IT-security analyst @ Mascot International (Mascot Workwear)
 [https://www.linkedin.com/in/dennis-christiansen-a20ba816b/](https://www.linkedin.com/in/dennis-christiansen-a20ba816b/)   
 [https://twitter.com/DennisLundChri1](https://twitter.com/DennisLundChri1)
 
