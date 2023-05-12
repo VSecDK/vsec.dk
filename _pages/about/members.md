@@ -523,3 +523,8 @@ IT-sikkerhedskonsulent @ Region Syddanmark
 ## Marc Munk (marmun)  
 Cybser security specialist
 [https://www.linkedin.com/in/marc-munk-1889731/](https://www.linkedin.com/in/marc-munk-1889731/)  
+
+## Bertram Madsen (bertie)
+Freelance software designer and developer working on [OSINTer](https://osinter.dk)
+[https://www.linkedin.com/in/bertram-madsen-a90776231/](https://www.linkedin.com/in/bertram-madsen-a90776231/)
+[https://gitlab.com/Bertmad](https://gitlab.com/Bertmad)
