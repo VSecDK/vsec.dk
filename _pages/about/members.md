@@ -521,10 +521,16 @@ IT-sikkerhedskonsulent @ Region Syddanmark
 [https://www.linkedin.com/in/martin-nygaard-christensen-a9325087/](https://www.linkedin.com/in/martin-nygaard-christensen-a9325087/)  
 
 ## Marc Munk (marmun)  
-Cybser security specialist
+Cybser security specialist  
 [https://www.linkedin.com/in/marc-munk-1889731/](https://www.linkedin.com/in/marc-munk-1889731/)  
 
-## Bertram Madsen (bertie)
-Freelance software designer and developer working on [OSINTer](https://osinter.dk)
-[https://www.linkedin.com/in/bertram-madsen-a90776231/](https://www.linkedin.com/in/bertram-madsen-a90776231/)
-[https://gitlab.com/Bertmad](https://gitlab.com/Bertmad)
+## Bertram Madsen (bertie)  
+Freelance software designer and developer working on [OSINTer](https://osinter.dk)  
+[https://www.linkedin.com/in/bertram-madsen-a90776231/](https://www.linkedin.com/in/bertram-madsen-a90776231/)  
+[https://gitlab.com/Bertmad](https://gitlab.com/Bertmad)  
+
+## Sarah Vangsøe Wohlin (Scyras)  
+Cyber Security Consultant @ Trifork Security  
+[https://www.linkedin.com/in/sarah-vangsøe-wohlin/](https://www.linkedin.com/in/sarah-vangsøe-wohlin/)  
+[https://twitter.com/scyrass](https://twitter.com/scyrass)  
+[https://github.com/Scyras/](https://github.com/Scyras/)  
