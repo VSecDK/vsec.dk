@@ -533,4 +533,3 @@ Freelance software designer and developer working on [OSINTer](https://osinter.d
 Cyber Security Consultant @ Trifork Security  
 [https://www.linkedin.com/in/sarah-vangsøe-wohlin/](https://www.linkedin.com/in/sarah-vangsøe-wohlin/)  
 [https://twitter.com/scyrass](https://twitter.com/scyrass)  
-[https://github.com/Scyras/](https://github.com/Scyras/)  
