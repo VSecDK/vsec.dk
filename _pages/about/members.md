@@ -291,9 +291,9 @@ BA Student in IT and Communication
 Lecturer of IT Security at KEA - Copenhagen School of Design and Technology  
 [https://www.linkedin.com/in/lorena-ronquillo/](https://www.linkedin.com/in/lorena-ronquillo/)   
 
-## Frederik Bøgeskov Johnsen (Frederik Bøgeskov)   
-Cyber Security Consultant @ CyberPilot.io  
-[https://www.linkedin.com/in/frederikbogeskovjohnsen/](https://www.linkedin.com/in/frederikbogeskovjohnsen/)   
+## Frederik Bøgeskov Krogsgaard (Frederik Bøgeskov)   
+Digital Forensics & Incident Response Analyst @ Norlys  
+[https://www.linkedin.com/in/frederikbogeskov](https://www.linkedin.com/in/frederikbogeskov)  
 
 ## Dénes Olivér Óvári (od8086)   
 Detection and Response Architect @ CSIS Security Group  
