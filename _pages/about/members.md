@@ -533,3 +533,12 @@ Freelance software designer and developer working on [OSINTer](https://osinter.d
 Cyber Security Consultant @ Trifork Security  
 [https://www.linkedin.com/in/sarah-vangsøe-wohlin/](https://www.linkedin.com/in/sarah-vangsøe-wohlin/)  
 [https://twitter.com/scyrass](https://twitter.com/scyrass)  
+
+## Kim Emanuelsen (.ukwn)  
+IT Security Consultant @ ECIT Solutions  
+[https://www.linkedin.com/in/kim-emanuelsen/](https://www.linkedin.com/in/kim-emanuelsen/)   
+[Mastodon: ukwn@infosec.exchange ](https://infosec.exchange/@ukwn)  
+
+## Anders Grundal Kahlke (teh_bulba / ciphexe)  
+IT and Cyber Security Specialist @ Poul Schmith/Kammeradvokaten  
+[https://www.linkedin.com/in/anderskahlke/](https://www.linkedin.com/in/anderskahlke/)   
