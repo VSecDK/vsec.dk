@@ -13,9 +13,10 @@ Need any form of help regarding VSec or the moderation of the VSec community, pl
 Work: Senior Security Specialist @ Jyske Bank A/S   
 [https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)  
 [https://twitter.com/bodeholt](https://twitter.com/bodeholt)  
+[https://infosec.exchange/@kbodeholt](https://infosec.exchange/@kbodeholt)  
 
 ## Klaus Agnoletti (Klaus Agnoletti)
-Work: Head of Community @ CrowdSec
+Work: Freelance @ Relations Security  
 [https://www.linkedin.com/in/agnoletti/](https://www.linkedin.com/in/agnoletti/)  
 [https://twitter.com/klausagnoletti](https://twitter.com/klausagnoletti)  
 
