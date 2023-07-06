@@ -542,3 +542,4 @@ IT Security Consultant @ ECIT Solutions
 ## Anders Grundal Kahlke (teh_bulba / ciphexe)  
 IT and Cyber Security Specialist @ Poul Schmith/Kammeradvokaten  
 [https://www.linkedin.com/in/anderskahlke/](https://www.linkedin.com/in/anderskahlke/)   
+[Mastodon: anderskahlke@infosec.exchange ](https://infosec.exchange/@anderskahlke)
