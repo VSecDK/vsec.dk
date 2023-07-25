@@ -187,8 +187,8 @@ Freelance Software Engineer & Security Architect
 ICS Security Analyst @ Norlys  
 [https://www.linkedin.com/in/mitchellimpey/](https://www.linkedin.com/in/mitchellimpey/)  
 
-## Magnus Jørgensen (Fixi)
-Director @ FlexiNetwork   
+## Magnus Demant (Fixi)
+Cyber Security Analyst @ Sundhedsdatastyrelsen
 [https://www.linkedin.com/in/fixi/](https://www.linkedin.com/in/fixi/)  
 [https://twitter.com/FixiDK](https://twitter.com/FixiDK)  
 
@@ -339,16 +339,10 @@ Security Consultant @ CSIS Security Group
 ## Stefan Daugaard Poulsen (cyberzed)  
 Lead Cloud SRE @ Schibsted  
 [https://www.linkedin.com/in/cyberzed/](https://www.linkedin.com/in/cyberzed/)   
-[https://twitter.com/cyberzeddk](https://twitter.com/cyberzeddk)  
 
 ## Thomas Arnskov Holdgaard Lützen (Tinf0il)  
 Consultant @ CSIS Security Group  
 [https://www.linkedin.com/in/thomashlutzen/](https://www.linkedin.com/in/thomashlutzen/)   
-
-## Jesper Hess (Graffen)   
-Security Architect @ TDC Group  
-[https://twitter.com/graffen](https://twitter.com/graffen)   
-[https://www.linkedin.com/in/graffen/](https://www.linkedin.com/in/graffen/)  
 
 ## Mousa Yuusufi (fuji)   
 Freelance Cyber Security Specialist  
