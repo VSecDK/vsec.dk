@@ -537,3 +537,7 @@ IT Security Consultant @ ECIT Solutions
 IT and Cyber Security Specialist @ Poul Schmith/Kammeradvokaten  
 [https://www.linkedin.com/in/anderskahlke/](https://www.linkedin.com/in/anderskahlke/)   
 [Mastodon: anderskahlke@infosec.exchange ](https://infosec.exchange/@anderskahlke)
+
+## Philip Heidemann Jensen  
+Security Architect @ Wrist Ship Supply  
+[https://www.linkedin.com/in/philiphjensen/](https://www.linkedin.com/in/philiphjensen/)  
