@@ -541,3 +541,8 @@ IT and Cyber Security Specialist @ Poul Schmith/Kammeradvokaten
 ## Philip Heidemann Jensen  
 Security Architect @ Wrist Ship Supply  
 [https://www.linkedin.com/in/philiphjensen/](https://www.linkedin.com/in/philiphjensen/)  
+
+## Patrick Rotman
+Security Specialist @ Unit IT  
+[https://www.linkedin.com/in/patrickrotman/](https://www.linkedin.com/in/patrickrotman/)  
+
