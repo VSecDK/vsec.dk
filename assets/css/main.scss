@@ -22,3 +22,8 @@ html {
       font-size: 20px; // change to whatever
     }
   }
+
+// Custom CSS due to CSP preventing inline style on members page.
+.member__socials { 
+  display: flex;
+}
