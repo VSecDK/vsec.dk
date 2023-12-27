@@ -23,3 +23,8 @@ Work: Freelance @ Relations Security
 ## Thor Kristiansen (Shiv4x6c)
 Work: Founder @ CPH:SEC  
 [https://www.linkedin.com/in/thorkristiansen/](https://www.linkedin.com/in/thorkristiansen/)   
+
+## Christian Henriksen (Christian Henriksen)
+Work: Cyber Security Consultant @ Trifork Security
+[https://www.linkedin.com/in/cbhen/](https://www.linkedin.com/in/cbhen/)
+[https://twitter.com/cbh_security](https://twitter.com/cbh_security)
