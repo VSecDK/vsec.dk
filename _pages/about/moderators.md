@@ -10,10 +10,10 @@ sidebar:
 Need any form of help regarding VSec or the moderation of the VSec community, please reach out to one of our moderators.
 
 ## Kristian Bodeholt (Kristian Bodeholt)
-Work: Senior Security Specialist @ Jyske Bank A/S   
+Work: Senior Security Consultant @ Bankdata  
 [https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)  
 [https://twitter.com/bodeholt](https://twitter.com/bodeholt)  
-[https://infosec.exchange/@kbodeholt](https://infosec.exchange/@kbodeholt)  
+[https://www.threads.net/@kbodeholt](https://www.threads.net/@kbodeholt)
 
 ## Klaus Agnoletti (Klaus Agnoletti)
 Work: Freelance @ Relations Security  
@@ -22,4 +22,4 @@ Work: Freelance @ Relations Security
 
 ## Thor Kristiansen (Shiv4x6c)
 Work: Founder @ CPH:SEC  
-[https://www.linkedin.com/in/thorkristiansen/](https://www.linkedin.com/in/thorkristiansen/)  
+[https://www.linkedin.com/in/thorkristiansen/](https://www.linkedin.com/in/thorkristiansen/)   
