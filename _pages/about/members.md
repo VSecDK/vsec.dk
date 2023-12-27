@@ -28,7 +28,7 @@ You can also make a pull request directly from Github to this page as proof.
 ## {{member.name}}{% if member.nickname %} ({{ member.nickname }}){% endif %}
 
  {% if member.title %}{{ member.title }}{% endif %} {% if member.workplace %} @ {{ member.workplace }}{% endif %}
-<ul class="author__urls social-icons" style="display: flex;">
+<ul class="author__urls social-icons member__socials">
   {% for social in member.socials %}
   
   {% case social[0] %}
