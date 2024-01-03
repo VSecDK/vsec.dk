@@ -37,6 +37,9 @@ include:
   - _pages
   - .well-known
 
+exclude:
+ - _profiles/0_template.md
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -59,8 +62,12 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCGQCK473y181BjNMJLrW11g"
 
-# Set Theme Defaults
 
+# Collections
+collections:
+  profiles:  # Blank to initialize
+
+# Set Theme Defaults
 defaults:
   # _posts
   - scope:
@@ -80,10 +87,10 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: false
 
 # Use Liquid Archives for categories/tags
-
 category_archive:
   type: liquid
   path: /categories/
