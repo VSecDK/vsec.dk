@@ -6,5 +6,6 @@ worktitle: Cyber Security Consultant
 workplace: Trifork Security
 socials:
   linkedin: sarah-vangsøe-wohlin
-  twitter: scyrass
+  twitter: sarahwohlin
+  github: sarahwohlin
 ---
