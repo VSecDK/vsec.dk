@@ -34,4 +34,4 @@ I found VSec through my good friends Christian Bech Henriksen and Sarah Vangsøe
 ## Thank you for sharing your thoughts with the community! If you should point to someone in the community that the next community spotlight should be about, who should it then be?
 My suggestion would be a young and aspiring professional, someone perhaps not yet in the field, but who can share their experience of how friendly the community is and how everybody can enter cybersecurity. Time of writing I have no specific person in mind. 
 
-I would also like to use this as an opportunity to widen my network, so if anyone interested in a dialog or just follow my professional journey you can catch me on LinkedIn: [www.linkedin.com/in/lars-bo-frydenskov](www.linkedin.com/in/lars-bo-frydenskov-5b002b212)
+I would also like to use this as an opportunity to widen my network, so if anyone interested in a dialog or just follow my professional journey you can catch me on LinkedIn: [https://www.linkedin.com/in/lars-bo-frydenskov](https://www.linkedin.com/in/lars-bo-frydenskov-5b002b212)
