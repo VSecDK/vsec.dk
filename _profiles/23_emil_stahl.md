@@ -2,8 +2,8 @@
 order: 23
 role: member
 title: Emil Stahl (emilstahl)
-worktitle: Linux Systems Engineer & Abuse
-workplace: team.blue Denmark
+worktitle: Cyber Security Specialist
+workplace: team.blue
 socials:
   linkedin: emilstahl
   twitter: emilstahl
