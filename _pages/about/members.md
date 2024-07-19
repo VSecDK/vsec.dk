@@ -32,7 +32,7 @@ You can also make a pull request directly from Github to this page as proof.
 
     {% when "mastadon" %}
       {% assign mastodon = social[1] | split:'@' %}
-<li><a href="https://{{ mastodon[1] }}/@{{ mastodon[0] }}"><i class="fab fa-fw fa-mastodon"></i><span class="label">Mastadon</span></a></li>
+<li><a href="https://{{ mastodon[1] }}/@{{ mastodon[0] }}"><i class="fab fa-fw fa-mastodon"></i><span class="label">Mastodon</span></a></li>
 
     {% when "github" %}
 <li><a href="https://github.com/{{ social[1] }}"><i class="fab fa-fw fa-github"></i><span class="label">GitHub</span></a></li>
