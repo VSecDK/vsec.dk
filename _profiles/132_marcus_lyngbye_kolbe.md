@@ -7,7 +7,7 @@ socials:
   mail: 0siriz@proton.me
   linkedin: marcus-lyngbye-kolbe
   twitter: 0xOsiriz
-  mastadon: 0siriz@mastodon.social
+  mastadon: 0siriz@infosec.exchange
   github: 0siriz
   web: https://osiriz.xyz
 ---
