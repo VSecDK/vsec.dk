@@ -2,7 +2,7 @@
 order: 132
 role: member
 title: Marcus Lyngbye Kolbe (osiriz)
-worktitle: Software Engineering Student
+worktitle: Computer Engineering Student
 socials:
   mail: 0siriz@proton.me
   linkedin: marcus-lyngbye-kolbe
