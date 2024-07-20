@@ -1,4 +1,4 @@
-Contact: info@vsec.dk
+Contact: mailto:info@vsec.dk
 Expires: 2024-12-31T00:00:00.000Z
 Encryption: Shared on request
 Acknowledgments: https://vsec.dk/contributing/#valuable-community-contributors
