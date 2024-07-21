@@ -1,8 +1,8 @@
-Contact: info@vsec.dk
-Expires: 2023-12-31
+Contact: mailto:info@vsec.dk
+Expires: 2024-12-31T00:00:00.000Z
 Encryption: Shared on request
 Acknowledgments: https://vsec.dk/contributing/#valuable-community-contributors
 Preferred-Languages: da, en
-Canonical: https://vsec.dk/.well-known/security.dk
+Canonical: https://vsec.dk/.well-known/security.txt
 Policy: Contact us by e-mail or mention @VSecDK on Twitter if security issues is found
 Hiring: N/A
