@@ -2,7 +2,7 @@
 order: 3
 role: moderator
 title: Kristian Bodeholt
-worktitle: Senior Security Consultant
+worktitle: IT Security Manager - Cyber Strategy, Application Security & Security Testing
 workplace: Bankdata
 socials:
   linkedin: kristianbodeholt
