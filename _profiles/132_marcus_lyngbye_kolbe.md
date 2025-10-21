@@ -1,8 +1,8 @@
 --- 
 order: 132
 role: member
-title: Marcus Lyngbye Kolbe (osiriz)
-worktitle: Computer Engineering Student
+title: Marcus Lyngbye Kolbe (0siriz)
+worktitle: MSc Cybersecurity Student
 socials:
   mail: 0siriz@proton.me
   linkedin: marcus-lyngbye-kolbe
